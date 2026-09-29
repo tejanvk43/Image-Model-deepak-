@@ -1,0 +1,10 @@
+torch>=2.0
+torchvision>=0.15
+opencv-python-headless>=4.8
+scikit-image>=0.21
+Pillow>=10.0
+numpy>=1.24
+
+# System dependency (not pip-installable): ffmpeg must be on PATH
+# for the video pipeline's chunk streaming + audio re-mux.
+#   Ubuntu/Debian: sudo apt-get install ffmpeg

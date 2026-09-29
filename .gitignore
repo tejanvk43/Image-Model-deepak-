@@ -1,0 +1,41 @@
+# Python caches and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Logs and local run output
+*.log
+*.out
+
+# Trained model weights
+checkpoints/*
+!checkpoints/.gitkeep
+
+# Local datasets and generated splits
+raw/
+data/
+
+# Generated inference output; keep sample inputs available
+samples/out/
+
+# Generated evaluation results
+results.csv
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
