@@ -1,0 +1,1601 @@
+image,method,psnr_db,ssim,seconds
+lolv2_real_00690.png,Zero-DCE++,19.598,0.5238,0.0218
+lolv2_real_00690.png,RetinexNet,17.120,0.7324,0.0940
+lolv2_real_00690.png,Transformer,16.596,0.7336,0.2745
+lolv2_real_00690.png,Hybrid (proposed),18.998,0.7805,0.4172
+lolv2_real_00691.png,Zero-DCE++,19.260,0.4863,0.0217
+lolv2_real_00691.png,RetinexNet,17.162,0.7284,0.0913
+lolv2_real_00691.png,Transformer,16.584,0.7173,0.2747
+lolv2_real_00691.png,Hybrid (proposed),18.930,0.7499,0.4201
+lolv2_real_00692.png,Zero-DCE++,19.952,0.6054,0.0217
+lolv2_real_00692.png,RetinexNet,21.041,0.6798,0.0932
+lolv2_real_00692.png,Transformer,17.802,0.6363,0.2762
+lolv2_real_00692.png,Hybrid (proposed),21.054,0.7633,0.4175
+lolv2_real_00693.png,Zero-DCE++,20.030,0.6244,0.0217
+lolv2_real_00693.png,RetinexNet,21.382,0.6754,0.0922
+lolv2_real_00693.png,Transformer,17.899,0.6398,0.2767
+lolv2_real_00693.png,Hybrid (proposed),20.984,0.7631,0.4217
+lolv2_real_00694.png,Zero-DCE++,20.922,0.6011,0.0217
+lolv2_real_00694.png,RetinexNet,20.772,0.7092,0.0927
+lolv2_real_00694.png,Transformer,18.916,0.6711,0.2773
+lolv2_real_00694.png,Hybrid (proposed),21.562,0.7757,0.4205
+lolv2_real_00695.png,Zero-DCE++,20.923,0.5993,0.0217
+lolv2_real_00695.png,RetinexNet,20.781,0.7087,0.0930
+lolv2_real_00695.png,Transformer,18.928,0.6711,0.2761
+lolv2_real_00695.png,Hybrid (proposed),21.571,0.7749,0.4241
+lolv2_real_00696.png,Zero-DCE++,16.530,0.4024,0.0217
+lolv2_real_00696.png,RetinexNet,19.750,0.7429,0.0939
+lolv2_real_00696.png,Transformer,17.814,0.6951,0.2765
+lolv2_real_00696.png,Hybrid (proposed),21.279,0.7504,0.4229
+lolv2_real_00697.png,Zero-DCE++,16.485,0.3955,0.0217
+lolv2_real_00697.png,RetinexNet,19.767,0.7420,0.0930
+lolv2_real_00697.png,Transformer,17.819,0.6929,0.2769
+lolv2_real_00697.png,Hybrid (proposed),21.268,0.7457,0.4216
+lolv2_real_00698.png,Zero-DCE++,16.970,0.3300,0.0217
+lolv2_real_00698.png,RetinexNet,20.137,0.8007,0.0943
+lolv2_real_00698.png,Transformer,19.731,0.7768,0.2762
+lolv2_real_00698.png,Hybrid (proposed),22.044,0.7635,0.4237
+lolv2_real_00699.png,Zero-DCE++,16.910,0.3134,0.0217
+lolv2_real_00699.png,RetinexNet,20.188,0.7954,0.0928
+lolv2_real_00699.png,Transformer,19.741,0.7718,0.2774
+lolv2_real_00699.png,Hybrid (proposed),22.022,0.7496,0.4243
+lolv2_real_00700.png,Zero-DCE++,12.575,0.5243,0.0217
+lolv2_real_00700.png,RetinexNet,17.818,0.7653,0.0942
+lolv2_real_00700.png,Transformer,14.899,0.7307,0.2780
+lolv2_real_00700.png,Hybrid (proposed),15.426,0.7357,0.4208
+lolv2_real_00701.png,Zero-DCE++,12.615,0.5315,0.0218
+lolv2_real_00701.png,RetinexNet,17.840,0.7683,0.0934
+lolv2_real_00701.png,Transformer,14.921,0.7359,0.2807
+lolv2_real_00701.png,Hybrid (proposed),15.456,0.7429,0.4234
+lolv2_real_00702.png,Zero-DCE++,14.700,0.4725,0.0217
+lolv2_real_00702.png,RetinexNet,15.981,0.7269,0.0930
+lolv2_real_00702.png,Transformer,19.179,0.7382,0.2786
+lolv2_real_00702.png,Hybrid (proposed),17.894,0.7499,0.4205
+lolv2_real_00703.png,Zero-DCE++,14.668,0.4713,0.0217
+lolv2_real_00703.png,RetinexNet,15.967,0.7265,0.0927
+lolv2_real_00703.png,Transformer,19.178,0.7382,0.2794
+lolv2_real_00703.png,Hybrid (proposed),17.875,0.7497,0.4232
+lolv2_real_00704.png,Zero-DCE++,14.562,0.4680,0.0218
+lolv2_real_00704.png,RetinexNet,15.922,0.7260,0.0935
+lolv2_real_00704.png,Transformer,19.151,0.7372,0.2805
+lolv2_real_00704.png,Hybrid (proposed),17.808,0.7479,0.4257
+lolv2_real_00705.png,Zero-DCE++,14.148,0.3802,0.0217
+lolv2_real_00705.png,RetinexNet,17.224,0.7317,0.0956
+lolv2_real_00705.png,Transformer,20.880,0.7552,0.2789
+lolv2_real_00705.png,Hybrid (proposed),19.004,0.7376,0.4236
+lolv2_real_00706.png,Zero-DCE++,14.340,0.3937,0.0218
+lolv2_real_00706.png,RetinexNet,17.136,0.7379,0.0930
+lolv2_real_00706.png,Transformer,21.176,0.7574,0.2801
+lolv2_real_00706.png,Hybrid (proposed),18.975,0.7395,0.4248
+lolv2_real_00707.png,Zero-DCE++,14.128,0.3796,0.0217
+lolv2_real_00707.png,RetinexNet,17.208,0.7329,0.0932
+lolv2_real_00707.png,Transformer,20.926,0.7559,0.2777
+lolv2_real_00707.png,Hybrid (proposed),19.000,0.7381,0.4268
+lolv2_real_00708.png,Zero-DCE++,20.974,0.4523,0.0218
+lolv2_real_00708.png,RetinexNet,17.744,0.7409,0.0959
+lolv2_real_00708.png,Transformer,17.028,0.7463,0.2778
+lolv2_real_00708.png,Hybrid (proposed),19.077,0.7547,0.4272
+lolv2_real_00709.png,Zero-DCE++,20.439,0.4667,0.0218
+lolv2_real_00709.png,RetinexNet,17.644,0.7422,0.0932
+lolv2_real_00709.png,Transformer,16.884,0.7474,0.2777
+lolv2_real_00709.png,Hybrid (proposed),18.819,0.7584,0.4251
+lolv2_real_00710.png,Zero-DCE++,16.925,0.6349,0.0219
+lolv2_real_00710.png,RetinexNet,17.003,0.8279,0.1049
+lolv2_real_00710.png,Transformer,16.064,0.8161,0.2799
+lolv2_real_00710.png,Hybrid (proposed),16.800,0.8340,0.4249
+lolv2_real_00711.png,Zero-DCE++,16.966,0.6348,0.0218
+lolv2_real_00711.png,RetinexNet,16.998,0.8280,0.0961
+lolv2_real_00711.png,Transformer,16.069,0.8161,0.2778
+lolv2_real_00711.png,Hybrid (proposed),16.809,0.8342,0.4235
+lolv2_real_00712.png,Zero-DCE++,16.172,0.8055,0.0218
+lolv2_real_00712.png,RetinexNet,20.156,0.8460,0.0936
+lolv2_real_00712.png,Transformer,20.422,0.8638,0.2813
+lolv2_real_00712.png,Hybrid (proposed),20.252,0.8916,0.4247
+lolv2_real_00713.png,Zero-DCE++,16.049,0.8060,0.0218
+lolv2_real_00713.png,RetinexNet,20.197,0.8459,0.1036
+lolv2_real_00713.png,Transformer,20.401,0.8632,0.2811
+lolv2_real_00713.png,Hybrid (proposed),20.208,0.8906,0.4237
+lolv2_real_00714.png,Zero-DCE++,16.540,0.6758,0.0218
+lolv2_real_00714.png,RetinexNet,18.384,0.5686,0.0933
+lolv2_real_00714.png,Transformer,14.223,0.5774,0.2811
+lolv2_real_00714.png,Hybrid (proposed),16.528,0.7375,0.4291
+lolv2_real_00715.png,Zero-DCE++,16.793,0.6751,0.0218
+lolv2_real_00715.png,RetinexNet,18.257,0.5670,0.0837
+lolv2_real_00715.png,Transformer,14.191,0.5800,0.2809
+lolv2_real_00715.png,Hybrid (proposed),16.594,0.7434,0.4269
+lolv2_real_00716.png,Zero-DCE++,12.944,0.6405,0.0218
+lolv2_real_00716.png,RetinexNet,17.444,0.8045,0.1005
+lolv2_real_00716.png,Transformer,14.469,0.7819,0.2818
+lolv2_real_00716.png,Hybrid (proposed),15.163,0.8087,0.4269
+lolv2_real_00717.png,Zero-DCE++,17.839,0.4003,0.0218
+lolv2_real_00717.png,RetinexNet,18.553,0.8179,0.0945
+lolv2_real_00717.png,Transformer,18.721,0.7798,0.2791
+lolv2_real_00717.png,Hybrid (proposed),20.181,0.7824,0.4242
+lolv2_real_00718.png,Zero-DCE++,10.706,0.5814,0.0220
+lolv2_real_00718.png,RetinexNet,13.569,0.5844,0.0952
+lolv2_real_00718.png,Transformer,11.723,0.6535,0.2787
+lolv2_real_00718.png,Hybrid (proposed),12.340,0.6837,0.4254
+lolv2_real_00719.png,Zero-DCE++,10.726,0.5841,0.0222
+lolv2_real_00719.png,RetinexNet,13.586,0.5848,0.0951
+lolv2_real_00719.png,Transformer,11.702,0.6557,0.2785
+lolv2_real_00719.png,Hybrid (proposed),12.332,0.6859,0.4297
+lolv2_real_00720.png,Zero-DCE++,16.073,0.5714,0.0222
+lolv2_real_00720.png,RetinexNet,19.051,0.7199,0.0953
+lolv2_real_00720.png,Transformer,13.870,0.6683,0.2795
+lolv2_real_00720.png,Hybrid (proposed),16.184,0.7743,0.4252
+lolv2_real_00721.png,Zero-DCE++,16.504,0.5684,0.0221
+lolv2_real_00721.png,RetinexNet,18.757,0.7124,0.0959
+lolv2_real_00721.png,Transformer,13.935,0.6709,0.2799
+lolv2_real_00721.png,Hybrid (proposed),16.351,0.7790,0.4245
+lolv2_real_00722.png,Zero-DCE++,10.936,0.5838,0.0220
+lolv2_real_00722.png,RetinexNet,14.642,0.5528,0.0956
+lolv2_real_00722.png,Transformer,11.364,0.6068,0.2793
+lolv2_real_00722.png,Hybrid (proposed),12.433,0.7130,0.4268
+lolv2_real_00723.png,Zero-DCE++,10.716,0.5851,0.0220
+lolv2_real_00723.png,RetinexNet,14.536,0.5528,0.0962
+lolv2_real_00723.png,Transformer,11.203,0.6012,0.2797
+lolv2_real_00723.png,Hybrid (proposed),12.234,0.7042,0.4264
+lolv2_real_00724.png,Zero-DCE++,12.661,0.5062,0.0224
+lolv2_real_00724.png,RetinexNet,14.587,0.4677,0.0962
+lolv2_real_00724.png,Transformer,11.291,0.5202,0.2799
+lolv2_real_00724.png,Hybrid (proposed),12.739,0.6402,0.4308
+lolv2_real_00725.png,Zero-DCE++,12.404,0.5204,0.0217
+lolv2_real_00725.png,RetinexNet,14.438,0.4684,0.0947
+lolv2_real_00725.png,Transformer,11.195,0.5304,0.2805
+lolv2_real_00725.png,Hybrid (proposed),12.582,0.6531,0.4251
+lolv2_real_00726.png,Zero-DCE++,9.924,0.6555,0.0218
+lolv2_real_00726.png,RetinexNet,14.571,0.4093,0.1041
+lolv2_real_00726.png,Transformer,11.531,0.5531,0.2825
+lolv2_real_00726.png,Hybrid (proposed),12.140,0.6707,0.4277
+lolv2_real_00727.png,Zero-DCE++,10.145,0.6426,0.0218
+lolv2_real_00727.png,RetinexNet,14.544,0.4139,0.0951
+lolv2_real_00727.png,Transformer,11.424,0.5528,0.2796
+lolv2_real_00727.png,Hybrid (proposed),12.158,0.6786,0.4307
+lolv2_real_00728.png,Zero-DCE++,10.108,0.5884,0.0217
+lolv2_real_00728.png,RetinexNet,14.549,0.4108,0.0943
+lolv2_real_00728.png,Transformer,11.417,0.5273,0.2797
+lolv2_real_00728.png,Hybrid (proposed),12.143,0.6395,0.4297
+lolv2_real_00729.png,Zero-DCE++,8.680,0.6310,0.0218
+lolv2_real_00729.png,RetinexNet,14.116,0.7204,0.0950
+lolv2_real_00729.png,Transformer,11.946,0.7499,0.2793
+lolv2_real_00729.png,Hybrid (proposed),11.792,0.7552,0.4282
+lolv2_real_00730.png,Zero-DCE++,8.771,0.6289,0.0220
+lolv2_real_00730.png,RetinexNet,13.893,0.7167,0.1058
+lolv2_real_00730.png,Transformer,11.800,0.7479,0.2823
+lolv2_real_00730.png,Hybrid (proposed),11.695,0.7552,0.4295
+lolv2_real_00731.png,Zero-DCE++,10.794,0.6745,0.0226
+lolv2_real_00731.png,RetinexNet,16.174,0.6608,0.0961
+lolv2_real_00731.png,Transformer,13.147,0.7141,0.2800
+lolv2_real_00731.png,Hybrid (proposed),13.604,0.7586,0.4261
+lolv2_real_00732.png,Zero-DCE++,10.969,0.6688,0.0221
+lolv2_real_00732.png,RetinexNet,15.740,0.6556,0.0947
+lolv2_real_00732.png,Transformer,13.073,0.7124,0.2809
+lolv2_real_00732.png,Hybrid (proposed),13.544,0.7586,0.4275
+lolv2_real_00733.png,Zero-DCE++,10.998,0.6520,0.0225
+lolv2_real_00733.png,RetinexNet,18.057,0.7302,0.0960
+lolv2_real_00733.png,Transformer,14.506,0.7497,0.2801
+lolv2_real_00733.png,Hybrid (proposed),14.881,0.7856,0.4262
+lolv2_real_00734.png,Zero-DCE++,10.940,0.6533,0.0218
+lolv2_real_00734.png,RetinexNet,18.044,0.7305,0.1019
+lolv2_real_00734.png,Transformer,14.533,0.7505,0.2822
+lolv2_real_00734.png,Hybrid (proposed),14.884,0.7860,0.4282
+lolv2_real_00735.png,Zero-DCE++,14.519,0.5987,0.0218
+lolv2_real_00735.png,RetinexNet,16.827,0.5940,0.1055
+lolv2_real_00735.png,Transformer,13.405,0.6354,0.2799
+lolv2_real_00735.png,Hybrid (proposed),15.067,0.7174,0.4273
+lolv2_real_00736.png,Zero-DCE++,14.559,0.6073,0.0218
+lolv2_real_00736.png,RetinexNet,16.835,0.5947,0.0954
+lolv2_real_00736.png,Transformer,13.420,0.6413,0.2828
+lolv2_real_00736.png,Hybrid (proposed),15.088,0.7246,0.4302
+lolv2_real_00737.png,Zero-DCE++,12.069,0.6486,0.0218
+lolv2_real_00737.png,RetinexNet,16.953,0.6519,0.0944
+lolv2_real_00737.png,Transformer,13.766,0.7153,0.2804
+lolv2_real_00737.png,Hybrid (proposed),14.377,0.7580,0.4296
+lolv2_real_00738.png,Zero-DCE++,12.380,0.6404,0.0218
+lolv2_real_00738.png,RetinexNet,17.227,0.6533,0.0986
+lolv2_real_00738.png,Transformer,13.629,0.7179,0.2825
+lolv2_real_00738.png,Hybrid (proposed),14.475,0.7657,0.4273
+lolv2_real_00739.png,Zero-DCE++,19.665,0.3973,0.0218
+lolv2_real_00739.png,RetinexNet,17.429,0.7338,0.1038
+lolv2_real_00739.png,Transformer,18.126,0.7387,0.2816
+lolv2_real_00739.png,Hybrid (proposed),20.106,0.7565,0.4283
+lolv2_real_00740.png,Zero-DCE++,19.562,0.3936,0.0222
+lolv2_real_00740.png,RetinexNet,17.422,0.7332,0.0961
+lolv2_real_00740.png,Transformer,18.127,0.7375,0.2799
+lolv2_real_00740.png,Hybrid (proposed),20.091,0.7540,0.4270
+lolv2_real_00741.png,Zero-DCE++,13.102,0.5375,0.0222
+lolv2_real_00741.png,RetinexNet,17.676,0.7526,0.0951
+lolv2_real_00741.png,Transformer,13.934,0.7402,0.2809
+lolv2_real_00741.png,Hybrid (proposed),14.880,0.7646,0.4274
+lolv2_real_00742.png,Zero-DCE++,14.820,0.2651,0.0222
+lolv2_real_00742.png,RetinexNet,21.190,0.7560,0.0951
+lolv2_real_00742.png,Transformer,20.538,0.7525,0.2799
+lolv2_real_00742.png,Hybrid (proposed),22.530,0.7261,0.4283
+lolv2_real_00743.png,Zero-DCE++,12.856,0.5814,0.0218
+lolv2_real_00743.png,RetinexNet,16.755,0.6892,0.0963
+lolv2_real_00743.png,Transformer,15.533,0.7620,0.2812
+lolv2_real_00743.png,Hybrid (proposed),15.748,0.7816,0.4267
+lolv2_real_00744.png,Zero-DCE++,17.229,0.5151,0.0218
+lolv2_real_00744.png,RetinexNet,19.638,0.7234,0.0994
+lolv2_real_00744.png,Transformer,17.062,0.7505,0.2832
+lolv2_real_00744.png,Hybrid (proposed),18.299,0.7808,0.4275
+lolv2_real_00745.png,Zero-DCE++,15.001,0.5403,0.0218
+lolv2_real_00745.png,RetinexNet,14.365,0.5485,0.1013
+lolv2_real_00745.png,Transformer,13.787,0.6453,0.2825
+lolv2_real_00745.png,Hybrid (proposed),14.998,0.6913,0.4292
+lolv2_real_00746.png,Zero-DCE++,14.965,0.5270,0.0218
+lolv2_real_00746.png,RetinexNet,14.371,0.5474,0.0946
+lolv2_real_00746.png,Transformer,13.774,0.6414,0.2834
+lolv2_real_00746.png,Hybrid (proposed),14.978,0.6822,0.4284
+lolv2_real_00747.png,Zero-DCE++,16.733,0.5301,0.0218
+lolv2_real_00747.png,RetinexNet,17.907,0.7106,0.0955
+lolv2_real_00747.png,Transformer,15.153,0.7113,0.2806
+lolv2_real_00747.png,Hybrid (proposed),16.854,0.7702,0.4303
+lolv2_real_00748.png,Zero-DCE++,16.627,0.5396,0.0218
+lolv2_real_00748.png,RetinexNet,18.013,0.7156,0.0947
+lolv2_real_00748.png,Transformer,15.146,0.7183,0.2807
+lolv2_real_00748.png,Hybrid (proposed),16.863,0.7792,0.4321
+lolv2_real_00749.png,Zero-DCE++,18.626,0.4660,0.0218
+lolv2_real_00749.png,RetinexNet,17.881,0.7167,0.0978
+lolv2_real_00749.png,Transformer,16.736,0.7501,0.2835
+lolv2_real_00749.png,Hybrid (proposed),18.081,0.7597,0.4286
+lolv2_real_00750.png,Zero-DCE++,20.128,0.4264,0.0220
+lolv2_real_00750.png,RetinexNet,19.277,0.7254,0.0967
+lolv2_real_00750.png,Transformer,17.059,0.7435,0.2817
+lolv2_real_00750.png,Hybrid (proposed),19.242,0.7510,0.4298
+lolv2_real_00751.png,Zero-DCE++,19.649,0.3987,0.0218
+lolv2_real_00751.png,RetinexNet,17.530,0.7235,0.0993
+lolv2_real_00751.png,Transformer,15.177,0.7290,0.2836
+lolv2_real_00751.png,Hybrid (proposed),17.805,0.7486,0.4294
+lolv2_real_00752.png,Zero-DCE++,19.798,0.4263,0.0218
+lolv2_real_00752.png,RetinexNet,16.720,0.7158,0.0961
+lolv2_real_00752.png,Transformer,15.204,0.7301,0.2822
+lolv2_real_00752.png,Hybrid (proposed),17.011,0.7425,0.4304
+lolv2_real_00753.png,Zero-DCE++,14.856,0.3922,0.0218
+lolv2_real_00753.png,RetinexNet,15.516,0.7204,0.0949
+lolv2_real_00753.png,Transformer,11.791,0.6694,0.2818
+lolv2_real_00753.png,Hybrid (proposed),13.803,0.6986,0.4282
+lolv2_real_00754.png,Zero-DCE++,14.927,0.3929,0.0218
+lolv2_real_00754.png,RetinexNet,15.556,0.7217,0.0991
+lolv2_real_00754.png,Transformer,11.818,0.6702,0.2804
+lolv2_real_00754.png,Hybrid (proposed),13.849,0.7004,0.4293
+lolv2_real_00755.png,Zero-DCE++,18.338,0.3199,0.0218
+lolv2_real_00755.png,RetinexNet,20.561,0.7757,0.1007
+lolv2_real_00755.png,Transformer,14.425,0.6992,0.2821
+lolv2_real_00755.png,Hybrid (proposed),18.663,0.7427,0.4314
+lolv2_real_00756.png,Zero-DCE++,18.265,0.3082,0.0218
+lolv2_real_00756.png,RetinexNet,20.683,0.7760,0.0954
+lolv2_real_00756.png,Transformer,14.470,0.6963,0.2827
+lolv2_real_00756.png,Hybrid (proposed),18.759,0.7356,0.4291
+lolv2_real_00757.png,Zero-DCE++,18.773,0.4002,0.0218
+lolv2_real_00757.png,RetinexNet,23.861,0.7723,0.0986
+lolv2_real_00757.png,Transformer,17.819,0.7583,0.2807
+lolv2_real_00757.png,Hybrid (proposed),21.890,0.7780,0.4320
+lolv2_real_00758.png,Zero-DCE++,20.108,0.4069,0.0218
+lolv2_real_00758.png,RetinexNet,24.862,0.7753,0.0951
+lolv2_real_00758.png,Transformer,17.962,0.7641,0.2807
+lolv2_real_00758.png,Hybrid (proposed),21.653,0.7746,0.4318
+lolv2_real_00759.png,Zero-DCE++,12.870,0.5230,0.0219
+lolv2_real_00759.png,RetinexNet,16.541,0.6395,0.1016
+lolv2_real_00759.png,Transformer,12.601,0.6306,0.2809
+lolv2_real_00759.png,Hybrid (proposed),14.204,0.6959,0.4285
+lolv2_real_00760.png,Zero-DCE++,13.079,0.5518,0.0219
+lolv2_real_00760.png,RetinexNet,16.358,0.6481,0.0996
+lolv2_real_00760.png,Transformer,12.496,0.6390,0.2821
+lolv2_real_00760.png,Hybrid (proposed),14.173,0.7212,0.4289
+lolv2_real_00761.png,Zero-DCE++,16.797,0.4802,0.0218
+lolv2_real_00761.png,RetinexNet,17.321,0.7472,0.0957
+lolv2_real_00761.png,Transformer,13.818,0.7011,0.2809
+lolv2_real_00761.png,Hybrid (proposed),16.038,0.7372,0.4276
+lolv2_real_00762.png,Zero-DCE++,17.093,0.4783,0.0218
+lolv2_real_00762.png,RetinexNet,17.447,0.7492,0.1023
+lolv2_real_00762.png,Transformer,13.903,0.7028,0.2844
+lolv2_real_00762.png,Hybrid (proposed),16.193,0.7391,0.4291
+lolv2_real_00763.png,Zero-DCE++,12.311,0.3771,0.0218
+lolv2_real_00763.png,RetinexNet,13.988,0.6908,0.1001
+lolv2_real_00763.png,Transformer,10.633,0.6478,0.2815
+lolv2_real_00763.png,Hybrid (proposed),12.046,0.6701,0.4290
+lolv2_real_00764.png,Zero-DCE++,12.949,0.3676,0.0218
+lolv2_real_00764.png,RetinexNet,14.996,0.7107,0.1019
+lolv2_real_00764.png,Transformer,10.640,0.6468,0.2810
+lolv2_real_00764.png,Hybrid (proposed),12.532,0.6784,0.4322
+lolv2_real_00765.png,Zero-DCE++,17.571,0.6101,0.0218
+lolv2_real_00765.png,RetinexNet,17.362,0.4918,0.0965
+lolv2_real_00765.png,Transformer,13.640,0.5146,0.2830
+lolv2_real_00765.png,Hybrid (proposed),16.394,0.6667,0.4289
+lolv2_real_00766.png,Zero-DCE++,17.707,0.6219,0.0218
+lolv2_real_00766.png,RetinexNet,17.371,0.4940,0.1025
+lolv2_real_00766.png,Transformer,13.651,0.5196,0.2823
+lolv2_real_00766.png,Hybrid (proposed),16.423,0.6753,0.4309
+lolv2_real_00767.png,Zero-DCE++,17.379,0.3786,0.0219
+lolv2_real_00767.png,RetinexNet,18.209,0.7154,0.0951
+lolv2_real_00767.png,Transformer,14.865,0.6121,0.2822
+lolv2_real_00767.png,Hybrid (proposed),18.337,0.6890,0.4305
+lolv2_real_00768.png,Zero-DCE++,19.139,0.3907,0.0218
+lolv2_real_00768.png,RetinexNet,18.879,0.7298,0.0988
+lolv2_real_00768.png,Transformer,15.897,0.6229,0.2817
+lolv2_real_00768.png,Hybrid (proposed),19.632,0.6936,0.4294
+lolv2_real_00769.png,Zero-DCE++,15.823,0.3412,0.0219
+lolv2_real_00769.png,RetinexNet,15.933,0.6682,0.0999
+lolv2_real_00769.png,Transformer,11.816,0.6063,0.2818
+lolv2_real_00769.png,Hybrid (proposed),14.185,0.6191,0.4292
+lolv2_real_00770.png,Zero-DCE++,15.750,0.3392,0.0219
+lolv2_real_00770.png,RetinexNet,15.879,0.6673,0.0954
+lolv2_real_00770.png,Transformer,11.788,0.6046,0.2823
+lolv2_real_00770.png,Hybrid (proposed),14.136,0.6163,0.4313
+lolv2_real_00771.png,Zero-DCE++,11.966,0.3898,0.0218
+lolv2_real_00771.png,RetinexNet,14.803,0.5138,0.0948
+lolv2_real_00771.png,Transformer,11.055,0.5050,0.2812
+lolv2_real_00771.png,Hybrid (proposed),12.417,0.5420,0.4307
+lolv2_real_00772.png,Zero-DCE++,11.839,0.4531,0.0218
+lolv2_real_00772.png,RetinexNet,14.974,0.5214,0.1015
+lolv2_real_00772.png,Transformer,10.992,0.5695,0.2823
+lolv2_real_00772.png,Hybrid (proposed),12.380,0.6040,0.4325
+lolv2_real_00773.png,Zero-DCE++,18.082,0.3979,0.0218
+lolv2_real_00773.png,RetinexNet,23.949,0.8225,0.0954
+lolv2_real_00773.png,Transformer,18.163,0.7789,0.2807
+lolv2_real_00773.png,Hybrid (proposed),22.514,0.7893,0.4311
+lolv2_real_00774.png,Zero-DCE++,17.728,0.3830,0.0218
+lolv2_real_00774.png,RetinexNet,23.407,0.8173,0.0974
+lolv2_real_00774.png,Transformer,17.965,0.7747,0.2819
+lolv2_real_00774.png,Hybrid (proposed),22.640,0.7847,0.4287
+lolv2_real_00775.png,Zero-DCE++,16.622,0.6196,0.0219
+lolv2_real_00775.png,RetinexNet,18.687,0.5587,0.1002
+lolv2_real_00775.png,Transformer,14.450,0.5664,0.2820
+lolv2_real_00775.png,Hybrid (proposed),17.006,0.6882,0.4298
+lolv2_real_00776.png,Zero-DCE++,17.109,0.6183,0.0219
+lolv2_real_00776.png,RetinexNet,18.155,0.5525,0.0995
+lolv2_real_00776.png,Transformer,14.397,0.5646,0.2832
+lolv2_real_00776.png,Hybrid (proposed),17.023,0.6899,0.4302
+lolv2_real_00777.png,Zero-DCE++,19.508,0.5204,0.0218
+lolv2_real_00777.png,RetinexNet,19.918,0.5645,0.0956
+lolv2_real_00777.png,Transformer,16.096,0.5333,0.2811
+lolv2_real_00777.png,Hybrid (proposed),20.087,0.6717,0.4315
+lolv2_real_00778.png,Zero-DCE++,19.796,0.5340,0.0219
+lolv2_real_00778.png,RetinexNet,19.774,0.5602,0.0971
+lolv2_real_00778.png,Transformer,16.149,0.5311,0.2829
+lolv2_real_00778.png,Hybrid (proposed),20.122,0.6760,0.4329
+lolv2_real_00779.png,Zero-DCE++,14.989,0.4111,0.0219
+lolv2_real_00779.png,RetinexNet,15.682,0.6679,0.0960
+lolv2_real_00779.png,Transformer,11.820,0.6224,0.2835
+lolv2_real_00779.png,Hybrid (proposed),13.886,0.6603,0.4296
+lolv2_real_00780.png,Zero-DCE++,15.129,0.4119,0.0219
+lolv2_real_00780.png,RetinexNet,15.715,0.6691,0.0976
+lolv2_real_00780.png,Transformer,11.849,0.6224,0.2820
+lolv2_real_00780.png,Hybrid (proposed),13.942,0.6615,0.4323
+lolv2_real_00781.png,Zero-DCE++,17.895,0.6660,0.0218
+lolv2_real_00781.png,RetinexNet,17.777,0.5432,0.0950
+lolv2_real_00781.png,Transformer,15.061,0.5818,0.2832
+lolv2_real_00781.png,Hybrid (proposed),17.248,0.7334,0.4308
+lolv2_real_00782.png,Zero-DCE++,18.142,0.6885,0.0218
+lolv2_real_00782.png,RetinexNet,17.794,0.5453,0.0991
+lolv2_real_00782.png,Transformer,15.088,0.5904,0.2835
+lolv2_real_00782.png,Hybrid (proposed),17.319,0.7498,0.4331
+lolv2_real_00783.png,Zero-DCE++,18.111,0.6875,0.0218
+lolv2_real_00783.png,RetinexNet,17.799,0.5457,0.0970
+lolv2_real_00783.png,Transformer,15.086,0.5902,0.2832
+lolv2_real_00783.png,Hybrid (proposed),17.316,0.7495,0.4348
+lolv2_real_00784.png,Zero-DCE++,15.894,0.5431,0.0218
+lolv2_real_00784.png,RetinexNet,17.598,0.5257,0.1020
+lolv2_real_00784.png,Transformer,17.404,0.4997,0.2839
+lolv2_real_00784.png,Hybrid (proposed),19.340,0.6690,0.4312
+lolv2_real_00785.png,Zero-DCE++,15.849,0.5342,0.0219
+lolv2_real_00785.png,RetinexNet,17.589,0.5240,0.1014
+lolv2_real_00785.png,Transformer,17.399,0.4972,0.2829
+lolv2_real_00785.png,Hybrid (proposed),19.313,0.6626,0.4306
+lolv2_real_00786.png,Zero-DCE++,15.892,0.5461,0.0219
+lolv2_real_00786.png,RetinexNet,17.592,0.5256,0.0997
+lolv2_real_00786.png,Transformer,17.418,0.5008,0.2833
+lolv2_real_00786.png,Hybrid (proposed),19.353,0.6722,0.4308
+lolv2_real_00787.png,Zero-DCE++,16.070,0.3639,0.0219
+lolv2_real_00787.png,RetinexNet,23.835,0.6808,0.0972
+lolv2_real_00787.png,Transformer,18.297,0.6000,0.2832
+lolv2_real_00787.png,Hybrid (proposed),24.150,0.7029,0.4313
+lolv2_real_00788.png,Zero-DCE++,15.790,0.3568,0.0219
+lolv2_real_00788.png,RetinexNet,23.382,0.6758,0.0965
+lolv2_real_00788.png,Transformer,18.456,0.5980,0.2828
+lolv2_real_00788.png,Hybrid (proposed),24.118,0.6993,0.4307
+lolv2_real_00789.png,Zero-DCE++,15.822,0.3581,0.0218
+lolv2_real_00789.png,RetinexNet,23.442,0.6768,0.0955
+lolv2_real_00789.png,Transformer,18.432,0.5988,0.2820
+lolv2_real_00789.png,Hybrid (proposed),24.112,0.7009,0.4311
+lolv2_synth_r00816405t.png,Zero-DCE++,16.549,0.8991,0.0147
+lolv2_synth_r00816405t.png,RetinexNet,16.942,0.4459,0.0543
+lolv2_synth_r00816405t.png,Transformer,16.907,0.6138,0.1746
+lolv2_synth_r00816405t.png,Hybrid (proposed),18.135,0.7389,0.2487
+lolv2_synth_r00869422t.png,Zero-DCE++,14.829,0.7135,0.0136
+lolv2_synth_r00869422t.png,RetinexNet,17.418,0.5254,0.0556
+lolv2_synth_r00869422t.png,Transformer,15.721,0.5852,0.1720
+lolv2_synth_r00869422t.png,Hybrid (proposed),16.890,0.7259,0.2502
+lolv2_synth_r00879054t.png,Zero-DCE++,18.399,0.8692,0.0135
+lolv2_synth_r00879054t.png,RetinexNet,18.043,0.6995,0.0537
+lolv2_synth_r00879054t.png,Transformer,19.792,0.7621,0.1717
+lolv2_synth_r00879054t.png,Hybrid (proposed),19.112,0.8417,0.2490
+lolv2_synth_r01058910t.png,Zero-DCE++,6.139,0.5769,0.0135
+lolv2_synth_r01058910t.png,RetinexNet,10.731,0.6660,0.0540
+lolv2_synth_r01058910t.png,Transformer,7.975,0.7063,0.1739
+lolv2_synth_r01058910t.png,Hybrid (proposed),6.156,0.5722,0.0152
+lolv2_synth_r01170470t.png,Zero-DCE++,19.360,0.9274,0.0135
+lolv2_synth_r01170470t.png,RetinexNet,20.315,0.7194,0.0548
+lolv2_synth_r01170470t.png,Transformer,20.976,0.7919,0.1716
+lolv2_synth_r01170470t.png,Hybrid (proposed),20.876,0.8718,0.2488
+lolv2_synth_r01474187t.png,Zero-DCE++,9.629,0.6566,0.0135
+lolv2_synth_r01474187t.png,RetinexNet,17.069,0.4062,0.0537
+lolv2_synth_r01474187t.png,Transformer,19.031,0.8153,0.1744
+lolv2_synth_r01474187t.png,Hybrid (proposed),9.508,0.6512,0.0152
+lolv2_synth_r0150031ft.png,Zero-DCE++,12.534,0.8592,0.0136
+lolv2_synth_r0150031ft.png,RetinexNet,18.610,0.7058,0.0534
+lolv2_synth_r0150031ft.png,Transformer,17.540,0.8409,0.1723
+lolv2_synth_r0150031ft.png,Hybrid (proposed),17.913,0.8725,0.2490
+lolv2_synth_r01559391t.png,Zero-DCE++,15.043,0.6987,0.0135
+lolv2_synth_r01559391t.png,RetinexNet,14.324,0.3789,0.0536
+lolv2_synth_r01559391t.png,Transformer,11.809,0.4145,0.1743
+lolv2_synth_r01559391t.png,Hybrid (proposed),13.720,0.5014,0.2492
+lolv2_synth_r02189767t.png,Zero-DCE++,19.269,0.7985,0.0135
+lolv2_synth_r02189767t.png,RetinexNet,17.059,0.6372,0.0573
+lolv2_synth_r02189767t.png,Transformer,16.735,0.6374,0.1712
+lolv2_synth_r02189767t.png,Hybrid (proposed),19.483,0.7572,0.2479
+lolv2_synth_r02354285t.png,Zero-DCE++,20.393,0.8247,0.0138
+lolv2_synth_r02354285t.png,RetinexNet,17.992,0.6043,0.0549
+lolv2_synth_r02354285t.png,Transformer,16.080,0.5701,0.1727
+lolv2_synth_r02354285t.png,Hybrid (proposed),17.668,0.6910,0.2493
+lolv2_synth_r02508493t.png,Zero-DCE++,19.005,0.8907,0.0136
+lolv2_synth_r02508493t.png,RetinexNet,18.556,0.6489,0.0544
+lolv2_synth_r02508493t.png,Transformer,18.526,0.6903,0.1718
+lolv2_synth_r02508493t.png,Hybrid (proposed),20.519,0.8321,0.2486
+lolv2_synth_r0287344at.png,Zero-DCE++,13.926,0.8044,0.0135
+lolv2_synth_r0287344at.png,RetinexNet,19.290,0.6520,0.0559
+lolv2_synth_r0287344at.png,Transformer,17.184,0.8063,0.1718
+lolv2_synth_r0287344at.png,Hybrid (proposed),17.523,0.8468,0.2486
+lolv2_synth_r02897203t.png,Zero-DCE++,15.709,0.9077,0.0135
+lolv2_synth_r02897203t.png,RetinexNet,20.453,0.6034,0.0533
+lolv2_synth_r02897203t.png,Transformer,19.020,0.7838,0.1725
+lolv2_synth_r02897203t.png,Hybrid (proposed),18.655,0.7972,0.2515
+lolv2_synth_r03193652t.png,Zero-DCE++,17.008,0.8249,0.0135
+lolv2_synth_r03193652t.png,RetinexNet,12.791,0.5920,0.0538
+lolv2_synth_r03193652t.png,Transformer,15.553,0.6250,0.1712
+lolv2_synth_r03193652t.png,Hybrid (proposed),15.549,0.7166,0.2482
+lolv2_synth_r0341853dt.png,Zero-DCE++,18.585,0.8660,0.0135
+lolv2_synth_r0341853dt.png,RetinexNet,16.026,0.6501,0.0534
+lolv2_synth_r0341853dt.png,Transformer,19.575,0.7232,0.1727
+lolv2_synth_r0341853dt.png,Hybrid (proposed),18.373,0.8352,0.2494
+lolv2_synth_r0372042dt.png,Zero-DCE++,11.141,0.5223,0.0136
+lolv2_synth_r0372042dt.png,RetinexNet,12.528,0.4896,0.0541
+lolv2_synth_r0372042dt.png,Transformer,10.968,0.4973,0.1729
+lolv2_synth_r0372042dt.png,Hybrid (proposed),12.043,0.5247,0.2508
+lolv2_synth_r04317453t.png,Zero-DCE++,21.778,0.9240,0.0136
+lolv2_synth_r04317453t.png,RetinexNet,21.186,0.8048,0.0531
+lolv2_synth_r04317453t.png,Transformer,19.362,0.7695,0.1717
+lolv2_synth_r04317453t.png,Hybrid (proposed),20.905,0.8702,0.2488
+lolv2_synth_r0465565ct.png,Zero-DCE++,18.046,0.9151,0.0135
+lolv2_synth_r0465565ct.png,RetinexNet,17.560,0.5653,0.0545
+lolv2_synth_r0465565ct.png,Transformer,18.487,0.7060,0.1717
+lolv2_synth_r0465565ct.png,Hybrid (proposed),19.378,0.8152,0.2484
+lolv2_synth_r05243256t.png,Zero-DCE++,9.432,0.6030,0.0136
+lolv2_synth_r05243256t.png,RetinexNet,15.119,0.5530,0.0535
+lolv2_synth_r05243256t.png,Transformer,11.679,0.6442,0.1744
+lolv2_synth_r05243256t.png,Hybrid (proposed),12.457,0.7156,0.2488
+lolv2_synth_r05772356t.png,Zero-DCE++,17.856,0.8985,0.0135
+lolv2_synth_r05772356t.png,RetinexNet,16.668,0.6058,0.0533
+lolv2_synth_r05772356t.png,Transformer,18.702,0.7907,0.1736
+lolv2_synth_r05772356t.png,Hybrid (proposed),18.176,0.8324,0.2491
+lolv2_synth_r05839451t.png,Zero-DCE++,10.305,0.7761,0.0137
+lolv2_synth_r05839451t.png,RetinexNet,17.633,0.6615,0.0539
+lolv2_synth_r05839451t.png,Transformer,16.932,0.8035,0.1733
+lolv2_synth_r05839451t.png,Hybrid (proposed),15.468,0.7988,0.2491
+lolv2_synth_r0589558at.png,Zero-DCE++,22.296,0.9156,0.0135
+lolv2_synth_r0589558at.png,RetinexNet,18.421,0.6355,0.0536
+lolv2_synth_r0589558at.png,Transformer,15.311,0.6008,0.1717
+lolv2_synth_r0589558at.png,Hybrid (proposed),17.882,0.7530,0.2485
+lolv2_synth_r0603031et.png,Zero-DCE++,17.739,0.7889,0.0136
+lolv2_synth_r0603031et.png,RetinexNet,15.105,0.4585,0.0533
+lolv2_synth_r0603031et.png,Transformer,13.477,0.4663,0.1733
+lolv2_synth_r0603031et.png,Hybrid (proposed),15.766,0.5956,0.2499
+lolv2_synth_r068812d7t.png,Zero-DCE++,17.271,0.8674,0.0142
+lolv2_synth_r068812d7t.png,RetinexNet,17.029,0.6797,0.0571
+lolv2_synth_r068812d7t.png,Transformer,14.746,0.6848,0.1726
+lolv2_synth_r068812d7t.png,Hybrid (proposed),16.350,0.7619,0.2491
+lolv2_synth_r0703243bt.png,Zero-DCE++,13.407,0.8855,0.0136
+lolv2_synth_r0703243bt.png,RetinexNet,18.538,0.4977,0.0532
+lolv2_synth_r0703243bt.png,Transformer,20.238,0.7763,0.1745
+lolv2_synth_r0703243bt.png,Hybrid (proposed),19.315,0.8231,0.2495
+lolv2_synth_r0708431at.png,Zero-DCE++,13.275,0.7547,0.0135
+lolv2_synth_r0708431at.png,RetinexNet,15.819,0.4293,0.0534
+lolv2_synth_r0708431at.png,Transformer,14.524,0.5302,0.1716
+lolv2_synth_r0708431at.png,Hybrid (proposed),15.135,0.6417,0.2487
+lolv2_synth_r072421a1t.png,Zero-DCE++,11.825,0.8498,0.0136
+lolv2_synth_r072421a1t.png,RetinexNet,17.891,0.8110,0.0554
+lolv2_synth_r072421a1t.png,Transformer,16.347,0.7991,0.1736
+lolv2_synth_r072421a1t.png,Hybrid (proposed),16.965,0.8496,0.2491
+lolv2_synth_r072649fdt.png,Zero-DCE++,14.406,0.8085,0.0136
+lolv2_synth_r072649fdt.png,RetinexNet,18.813,0.6685,0.0533
+lolv2_synth_r072649fdt.png,Transformer,13.989,0.6571,0.1734
+lolv2_synth_r072649fdt.png,Hybrid (proposed),16.101,0.7691,0.2510
+lolv2_synth_r07598392t.png,Zero-DCE++,18.179,0.8358,0.0135
+lolv2_synth_r07598392t.png,RetinexNet,17.130,0.7260,0.0540
+lolv2_synth_r07598392t.png,Transformer,17.386,0.7150,0.1709
+lolv2_synth_r07598392t.png,Hybrid (proposed),18.072,0.8045,0.2490
+lolv2_synth_r0773471dt.png,Zero-DCE++,12.126,0.7722,0.0138
+lolv2_synth_r0773471dt.png,RetinexNet,15.397,0.4561,0.0560
+lolv2_synth_r0773471dt.png,Transformer,14.204,0.6607,0.1714
+lolv2_synth_r0773471dt.png,Hybrid (proposed),14.824,0.7365,0.2485
+lolv2_synth_r077507cat.png,Zero-DCE++,21.888,0.8311,0.0135
+lolv2_synth_r077507cat.png,RetinexNet,18.831,0.5904,0.0533
+lolv2_synth_r077507cat.png,Transformer,15.192,0.5420,0.1729
+lolv2_synth_r077507cat.png,Hybrid (proposed),17.773,0.7067,0.2504
+lolv2_synth_r08079988t.png,Zero-DCE++,17.230,0.8234,0.0136
+lolv2_synth_r08079988t.png,RetinexNet,19.282,0.6007,0.0544
+lolv2_synth_r08079988t.png,Transformer,15.541,0.5845,0.1718
+lolv2_synth_r08079988t.png,Hybrid (proposed),18.646,0.7450,0.2487
+lolv2_synth_r0809811bt.png,Zero-DCE++,17.268,0.7484,0.0136
+lolv2_synth_r0809811bt.png,RetinexNet,19.078,0.6709,0.0530
+lolv2_synth_r0809811bt.png,Transformer,17.789,0.6407,0.1739
+lolv2_synth_r0809811bt.png,Hybrid (proposed),19.254,0.7478,0.2506
+lolv2_synth_r082626aft.png,Zero-DCE++,19.955,0.7660,0.0136
+lolv2_synth_r082626aft.png,RetinexNet,16.820,0.6275,0.0534
+lolv2_synth_r082626aft.png,Transformer,15.882,0.6076,0.1719
+lolv2_synth_r082626aft.png,Hybrid (proposed),17.950,0.7330,0.2487
+lolv2_synth_r084889d5t.png,Zero-DCE++,15.729,0.9213,0.0135
+lolv2_synth_r084889d5t.png,RetinexNet,18.748,0.7770,0.0544
+lolv2_synth_r084889d5t.png,Transformer,20.754,0.8548,0.1718
+lolv2_synth_r084889d5t.png,Hybrid (proposed),20.349,0.9090,0.2489
+lolv2_synth_r08788547t.png,Zero-DCE++,8.414,0.4201,0.0139
+lolv2_synth_r08788547t.png,RetinexNet,11.597,0.3649,0.0556
+lolv2_synth_r08788547t.png,Transformer,12.582,0.6560,0.1733
+lolv2_synth_r08788547t.png,Hybrid (proposed),11.880,0.5743,0.2499
+lolv2_synth_r08873591t.png,Zero-DCE++,15.681,0.7153,0.0135
+lolv2_synth_r08873591t.png,RetinexNet,12.254,0.4810,0.0532
+lolv2_synth_r08873591t.png,Transformer,11.398,0.5176,0.1728
+lolv2_synth_r08873591t.png,Hybrid (proposed),12.766,0.5900,0.2518
+lolv2_synth_r08996953t.png,Zero-DCE++,10.434,0.7493,0.0135
+lolv2_synth_r08996953t.png,RetinexNet,16.632,0.7364,0.0536
+lolv2_synth_r08996953t.png,Transformer,14.017,0.8353,0.1719
+lolv2_synth_r08996953t.png,Hybrid (proposed),13.694,0.8239,0.2477
+lolv2_synth_r0905697bt.png,Zero-DCE++,22.700,0.9264,0.0136
+lolv2_synth_r0905697bt.png,RetinexNet,18.950,0.8762,0.0533
+lolv2_synth_r0905697bt.png,Transformer,20.889,0.8754,0.1725
+lolv2_synth_r0905697bt.png,Hybrid (proposed),19.839,0.9190,0.2493
+lolv2_synth_r09245347t.png,Zero-DCE++,15.982,0.6608,0.0136
+lolv2_synth_r09245347t.png,RetinexNet,16.365,0.4468,0.0539
+lolv2_synth_r09245347t.png,Transformer,13.229,0.4065,0.1721
+lolv2_synth_r09245347t.png,Hybrid (proposed),16.052,0.5416,0.2493
+lolv2_synth_r09445479t.png,Zero-DCE++,19.602,0.9428,0.0136
+lolv2_synth_r09445479t.png,RetinexNet,17.163,0.7316,0.0532
+lolv2_synth_r09445479t.png,Transformer,19.634,0.7976,0.1731
+lolv2_synth_r09445479t.png,Hybrid (proposed),19.204,0.8785,0.2495
+lolv2_synth_r09670876t.png,Zero-DCE++,11.791,0.8645,0.0136
+lolv2_synth_r09670876t.png,RetinexNet,20.492,0.7149,0.0532
+lolv2_synth_r09670876t.png,Transformer,19.494,0.8964,0.1716
+lolv2_synth_r09670876t.png,Hybrid (proposed),11.565,0.8570,0.0152
+lolv2_synth_r096982ddt.png,Zero-DCE++,9.457,0.7818,0.0135
+lolv2_synth_r096982ddt.png,RetinexNet,18.005,0.7835,0.0539
+lolv2_synth_r096982ddt.png,Transformer,12.618,0.8055,0.1719
+lolv2_synth_r096982ddt.png,Hybrid (proposed),13.183,0.8397,0.2492
+lolv2_synth_r097088c1t.png,Zero-DCE++,20.392,0.8713,0.0136
+lolv2_synth_r097088c1t.png,RetinexNet,18.384,0.6139,0.0569
+lolv2_synth_r097088c1t.png,Transformer,15.114,0.5826,0.1722
+lolv2_synth_r097088c1t.png,Hybrid (proposed),17.605,0.7456,0.2496
+lolv2_synth_r097555c4t.png,Zero-DCE++,9.694,0.7341,0.0135
+lolv2_synth_r097555c4t.png,RetinexNet,16.726,0.6758,0.0543
+lolv2_synth_r097555c4t.png,Transformer,14.140,0.7907,0.1719
+lolv2_synth_r097555c4t.png,Hybrid (proposed),13.829,0.8043,0.2494
+lolv2_synth_r104153eat.png,Zero-DCE++,11.849,0.8771,0.0136
+lolv2_synth_r104153eat.png,RetinexNet,18.480,0.8572,0.0532
+lolv2_synth_r104153eat.png,Transformer,13.992,0.8364,0.1720
+lolv2_synth_r104153eat.png,Hybrid (proposed),14.608,0.8805,0.2487
+lolv2_synth_r107730b5t.png,Zero-DCE++,10.653,0.7257,0.0135
+lolv2_synth_r107730b5t.png,RetinexNet,16.148,0.6390,0.0535
+lolv2_synth_r107730b5t.png,Transformer,13.375,0.7061,0.1725
+lolv2_synth_r107730b5t.png,Hybrid (proposed),14.150,0.7707,0.2485
+lolv2_synth_r108301e3t.png,Zero-DCE++,14.628,0.8174,0.0136
+lolv2_synth_r108301e3t.png,RetinexNet,18.110,0.5980,0.0529
+lolv2_synth_r108301e3t.png,Transformer,16.259,0.7082,0.1735
+lolv2_synth_r108301e3t.png,Hybrid (proposed),18.621,0.8185,0.2519
+lolv2_synth_r10893508t.png,Zero-DCE++,16.556,0.7758,0.0139
+lolv2_synth_r10893508t.png,RetinexNet,18.893,0.5734,0.0551
+lolv2_synth_r10893508t.png,Transformer,16.093,0.6506,0.1733
+lolv2_synth_r10893508t.png,Hybrid (proposed),18.478,0.7578,0.2516
+lolv2_synth_r10940798t.png,Zero-DCE++,20.657,0.9172,0.0136
+lolv2_synth_r10940798t.png,RetinexNet,18.699,0.7633,0.0537
+lolv2_synth_r10940798t.png,Transformer,17.494,0.7800,0.1719
+lolv2_synth_r10940798t.png,Hybrid (proposed),18.132,0.8550,0.2500
+lolv2_synth_r113402d4t.png,Zero-DCE++,20.273,0.8713,0.0136
+lolv2_synth_r113402d4t.png,RetinexNet,17.254,0.7138,0.0560
+lolv2_synth_r113402d4t.png,Transformer,17.620,0.6925,0.1715
+lolv2_synth_r113402d4t.png,Hybrid (proposed),18.288,0.8030,0.2490
+lolv2_synth_r1148801et.png,Zero-DCE++,19.668,0.7583,0.0135
+lolv2_synth_r1148801et.png,RetinexNet,19.782,0.7443,0.0532
+lolv2_synth_r1148801et.png,Transformer,17.313,0.6776,0.1726
+lolv2_synth_r1148801et.png,Hybrid (proposed),19.750,0.7710,0.2489
+lolv2_synth_r116825e2t.png,Zero-DCE++,11.575,0.8014,0.0135
+lolv2_synth_r116825e2t.png,RetinexNet,18.778,0.6657,0.0536
+lolv2_synth_r116825e2t.png,Transformer,16.508,0.8104,0.1731
+lolv2_synth_r116825e2t.png,Hybrid (proposed),16.173,0.8318,0.2503
+lolv2_synth_r11850456t.png,Zero-DCE++,16.274,0.9285,0.0135
+lolv2_synth_r11850456t.png,RetinexNet,17.018,0.6547,0.0535
+lolv2_synth_r11850456t.png,Transformer,18.655,0.7892,0.1726
+lolv2_synth_r11850456t.png,Hybrid (proposed),19.106,0.8517,0.2504
+lolv2_synth_r12133015t.png,Zero-DCE++,19.658,0.8949,0.0137
+lolv2_synth_r12133015t.png,RetinexNet,19.847,0.6526,0.0543
+lolv2_synth_r12133015t.png,Transformer,20.195,0.7235,0.1714
+lolv2_synth_r12133015t.png,Hybrid (proposed),19.737,0.8468,0.2523
+lolv2_synth_r125034a9t.png,Zero-DCE++,10.099,0.6354,0.0136
+lolv2_synth_r125034a9t.png,RetinexNet,14.080,0.5742,0.0534
+lolv2_synth_r125034a9t.png,Transformer,10.906,0.5957,0.1721
+lolv2_synth_r125034a9t.png,Hybrid (proposed),11.850,0.6510,0.2498
+lolv2_synth_r125442fat.png,Zero-DCE++,17.537,0.9111,0.0136
+lolv2_synth_r125442fat.png,RetinexNet,18.733,0.6383,0.0535
+lolv2_synth_r125442fat.png,Transformer,15.547,0.6633,0.1724
+lolv2_synth_r125442fat.png,Hybrid (proposed),17.488,0.7952,0.2493
+lolv2_synth_r127608abt.png,Zero-DCE++,16.431,0.6061,0.0136
+lolv2_synth_r127608abt.png,RetinexNet,12.632,0.2858,0.0542
+lolv2_synth_r127608abt.png,Transformer,11.724,0.3135,0.1726
+lolv2_synth_r127608abt.png,Hybrid (proposed),13.293,0.4219,0.2499
+lolv2_synth_r12946364t.png,Zero-DCE++,13.270,0.8468,0.0135
+lolv2_synth_r12946364t.png,RetinexNet,18.092,0.8385,0.0532
+lolv2_synth_r12946364t.png,Transformer,15.224,0.8498,0.1722
+lolv2_synth_r12946364t.png,Hybrid (proposed),15.930,0.8898,0.2490
+lolv2_synth_r1301676dt.png,Zero-DCE++,18.957,0.7715,0.0140
+lolv2_synth_r1301676dt.png,RetinexNet,15.938,0.6247,0.0565
+lolv2_synth_r1301676dt.png,Transformer,14.832,0.5720,0.1718
+lolv2_synth_r1301676dt.png,Hybrid (proposed),16.707,0.6828,0.2492
+lolv2_synth_r13073518t.png,Zero-DCE++,13.080,0.7886,0.0136
+lolv2_synth_r13073518t.png,RetinexNet,16.256,0.5564,0.0543
+lolv2_synth_r13073518t.png,Transformer,14.651,0.6906,0.1734
+lolv2_synth_r13073518t.png,Hybrid (proposed),16.077,0.7507,0.2498
+lolv2_synth_r1372056ct.png,Zero-DCE++,18.405,0.8188,0.0136
+lolv2_synth_r1372056ct.png,RetinexNet,17.533,0.6097,0.0540
+lolv2_synth_r1372056ct.png,Transformer,17.970,0.6237,0.1740
+lolv2_synth_r1372056ct.png,Hybrid (proposed),18.756,0.7450,0.2503
+lolv2_synth_r13837601t.png,Zero-DCE++,10.046,0.7154,0.0136
+lolv2_synth_r13837601t.png,RetinexNet,15.749,0.7450,0.0534
+lolv2_synth_r13837601t.png,Transformer,12.599,0.7591,0.1736
+lolv2_synth_r13837601t.png,Hybrid (proposed),12.825,0.7766,0.2511
+lolv2_synth_r13907965t.png,Zero-DCE++,21.469,0.9208,0.0136
+lolv2_synth_r13907965t.png,RetinexNet,16.116,0.7429,0.0533
+lolv2_synth_r13907965t.png,Transformer,18.728,0.7566,0.1729
+lolv2_synth_r13907965t.png,Hybrid (proposed),19.648,0.8409,0.2506
+lolv2_synth_r13928401t.png,Zero-DCE++,8.316,0.6487,0.0136
+lolv2_synth_r13928401t.png,RetinexNet,15.875,0.5205,0.0537
+lolv2_synth_r13928401t.png,Transformer,12.931,0.8678,0.1721
+lolv2_synth_r13928401t.png,Hybrid (proposed),12.636,0.8146,0.2504
+lolv2_synth_r141665bdt.png,Zero-DCE++,13.599,0.8477,0.0136
+lolv2_synth_r141665bdt.png,RetinexNet,16.058,0.7305,0.0539
+lolv2_synth_r141665bdt.png,Transformer,13.938,0.7676,0.1718
+lolv2_synth_r141665bdt.png,Hybrid (proposed),15.008,0.8265,0.2492
+lolv2_synth_r141669e5t.png,Zero-DCE++,19.132,0.5078,0.0135
+lolv2_synth_r141669e5t.png,RetinexNet,17.940,0.4951,0.0530
+lolv2_synth_r141669e5t.png,Transformer,12.919,0.4054,0.1731
+lolv2_synth_r141669e5t.png,Hybrid (proposed),16.703,0.5083,0.2498
+lolv2_synth_r1419078bt.png,Zero-DCE++,20.074,0.8025,0.0135
+lolv2_synth_r1419078bt.png,RetinexNet,17.655,0.5505,0.0538
+lolv2_synth_r1419078bt.png,Transformer,15.853,0.5476,0.1719
+lolv2_synth_r1419078bt.png,Hybrid (proposed),17.923,0.6856,0.2503
+lolv2_synth_r142335f0t.png,Zero-DCE++,16.760,0.9171,0.0135
+lolv2_synth_r142335f0t.png,RetinexNet,20.290,0.6477,0.0538
+lolv2_synth_r142335f0t.png,Transformer,20.208,0.7499,0.1731
+lolv2_synth_r142335f0t.png,Hybrid (proposed),21.183,0.8371,0.2509
+lolv2_synth_r142787e2t.png,Zero-DCE++,7.377,0.6172,0.0136
+lolv2_synth_r142787e2t.png,RetinexNet,16.290,0.6960,0.0533
+lolv2_synth_r142787e2t.png,Transformer,13.364,0.8325,0.1720
+lolv2_synth_r142787e2t.png,Hybrid (proposed),7.374,0.6123,0.0155
+lolv2_synth_r14289905t.png,Zero-DCE++,7.886,0.4542,0.0137
+lolv2_synth_r14289905t.png,RetinexNet,14.494,0.4118,0.0546
+lolv2_synth_r14289905t.png,Transformer,14.408,0.5560,0.1729
+lolv2_synth_r14289905t.png,Hybrid (proposed),13.234,0.5339,0.2501
+lolv2_synth_r145215fft.png,Zero-DCE++,12.457,0.8759,0.0136
+lolv2_synth_r145215fft.png,RetinexNet,17.700,0.4301,0.0541
+lolv2_synth_r145215fft.png,Transformer,22.520,0.8376,0.1723
+lolv2_synth_r145215fft.png,Hybrid (proposed),21.283,0.8621,0.2500
+lolv2_synth_r145221d9t.png,Zero-DCE++,15.452,0.8330,0.0136
+lolv2_synth_r145221d9t.png,RetinexNet,16.033,0.4830,0.0537
+lolv2_synth_r145221d9t.png,Transformer,13.879,0.5678,0.1737
+lolv2_synth_r145221d9t.png,Hybrid (proposed),15.429,0.6860,0.2519
+lolv2_synth_r146771d7t.png,Zero-DCE++,12.942,0.7102,0.0136
+lolv2_synth_r146771d7t.png,RetinexNet,13.327,0.5660,0.0532
+lolv2_synth_r146771d7t.png,Transformer,14.805,0.6338,0.1726
+lolv2_synth_r146771d7t.png,Hybrid (proposed),15.032,0.6818,0.2511
+lolv2_synth_r150058a4t.png,Zero-DCE++,15.539,0.8855,0.0136
+lolv2_synth_r150058a4t.png,RetinexNet,16.687,0.6719,0.0538
+lolv2_synth_r150058a4t.png,Transformer,19.192,0.8123,0.1723
+lolv2_synth_r150058a4t.png,Hybrid (proposed),19.951,0.8814,0.2497
+lolv2_synth_r15885978t.png,Zero-DCE++,20.909,0.7906,0.0135
+lolv2_synth_r15885978t.png,RetinexNet,21.994,0.7503,0.0540
+lolv2_synth_r15885978t.png,Transformer,17.036,0.6530,0.1737
+lolv2_synth_r15885978t.png,Hybrid (proposed),20.379,0.7894,0.2498
+lolv2_synth_r15919202t.png,Zero-DCE++,6.970,0.5682,0.0135
+lolv2_synth_r15919202t.png,RetinexNet,14.102,0.5929,0.0534
+lolv2_synth_r15919202t.png,Transformer,12.063,0.8163,0.1734
+lolv2_synth_r15919202t.png,Hybrid (proposed),6.953,0.5633,0.0153
+lolv2_synth_r1602555bt.png,Zero-DCE++,20.876,0.8831,0.0136
+lolv2_synth_r1602555bt.png,RetinexNet,16.056,0.7076,0.0540
+lolv2_synth_r1602555bt.png,Transformer,17.384,0.7037,0.1733
+lolv2_synth_r1602555bt.png,Hybrid (proposed),17.275,0.8072,0.2503
+lolv2_synth_r163317d6t.png,Zero-DCE++,14.007,0.8877,0.0140
+lolv2_synth_r163317d6t.png,RetinexNet,18.067,0.7083,0.0560
+lolv2_synth_r163317d6t.png,Transformer,15.933,0.7687,0.1733
+lolv2_synth_r163317d6t.png,Hybrid (proposed),16.818,0.8413,0.2511
+lolv2_synth_r163967d4t.png,Zero-DCE++,10.046,0.7564,0.0135
+lolv2_synth_r163967d4t.png,RetinexNet,15.281,0.6840,0.0535
+lolv2_synth_r163967d4t.png,Transformer,11.908,0.7398,0.1715
+lolv2_synth_r163967d4t.png,Hybrid (proposed),12.704,0.7686,0.2490
+lolv2_synth_r16422663t.png,Zero-DCE++,20.807,0.9722,0.0136
+lolv2_synth_r16422663t.png,RetinexNet,22.808,0.8904,0.0545
+lolv2_synth_r16422663t.png,Transformer,21.288,0.9225,0.1733
+lolv2_synth_r16422663t.png,Hybrid (proposed),19.732,0.9466,0.2497
+lolv2_synth_r16509308t.png,Zero-DCE++,11.684,0.8332,0.0136
+lolv2_synth_r16509308t.png,RetinexNet,18.517,0.7367,0.0530
+lolv2_synth_r16509308t.png,Transformer,16.147,0.7703,0.1730
+lolv2_synth_r16509308t.png,Hybrid (proposed),16.814,0.8132,0.2514
+lolv2_synth_r165355c0t.png,Zero-DCE++,9.312,0.8079,0.0136
+lolv2_synth_r165355c0t.png,RetinexNet,20.031,0.7599,0.0535
+lolv2_synth_r165355c0t.png,Transformer,15.135,0.8539,0.1727
+lolv2_synth_r165355c0t.png,Hybrid (proposed),14.753,0.8589,0.2504
+lolv2_synth_r16654024t.png,Zero-DCE++,11.750,0.6375,0.0136
+lolv2_synth_r16654024t.png,RetinexNet,13.487,0.4633,0.0544
+lolv2_synth_r16654024t.png,Transformer,13.297,0.5260,0.1722
+lolv2_synth_r16654024t.png,Hybrid (proposed),14.216,0.5981,0.2500
+lolv2_synth_r1683028at.png,Zero-DCE++,20.517,0.8561,0.0139
+lolv2_synth_r1683028at.png,RetinexNet,16.535,0.7220,0.0547
+lolv2_synth_r1683028at.png,Transformer,19.282,0.7606,0.1746
+lolv2_synth_r1683028at.png,Hybrid (proposed),18.864,0.8431,0.2514
+lolv2_synth_r1694427et.png,Zero-DCE++,7.225,0.7148,0.0136
+lolv2_synth_r1694427et.png,RetinexNet,12.214,0.7874,0.0540
+lolv2_synth_r1694427et.png,Transformer,10.346,0.7574,0.1718
+lolv2_synth_r1694427et.png,Hybrid (proposed),10.214,0.7626,0.2490
+lolv2_synth_r170632f5t.png,Zero-DCE++,17.859,0.7981,0.0135
+lolv2_synth_r170632f5t.png,RetinexNet,16.967,0.4863,0.0533
+lolv2_synth_r170632f5t.png,Transformer,16.488,0.5362,0.1726
+lolv2_synth_r170632f5t.png,Hybrid (proposed),18.339,0.6883,0.2498
+lolv2_synth_r17217693t.png,Zero-DCE++,17.581,0.8023,0.0135
+lolv2_synth_r17217693t.png,RetinexNet,14.950,0.4066,0.0540
+lolv2_synth_r17217693t.png,Transformer,13.638,0.4530,0.1725
+lolv2_synth_r17217693t.png,Hybrid (proposed),15.296,0.6051,0.2495
+lolv2_synth_r181768b7t.png,Zero-DCE++,9.095,0.6246,0.0136
+lolv2_synth_r181768b7t.png,RetinexNet,16.454,0.5623,0.0540
+lolv2_synth_r181768b7t.png,Transformer,12.544,0.6786,0.1745
+lolv2_synth_r181768b7t.png,Hybrid (proposed),13.351,0.7289,0.2511
+lolv2_synth_r1824034et.png,Zero-DCE++,19.931,0.9363,0.0135
+lolv2_synth_r1824034et.png,RetinexNet,16.393,0.6921,0.0536
+lolv2_synth_r1824034et.png,Transformer,19.661,0.8104,0.1729
+lolv2_synth_r1824034et.png,Hybrid (proposed),20.034,0.8865,0.2521
+lolv2_synth_r185929e9t.png,Zero-DCE++,17.709,0.8464,0.0139
+lolv2_synth_r185929e9t.png,RetinexNet,15.058,0.5284,0.0554
+lolv2_synth_r185929e9t.png,Transformer,17.063,0.5948,0.1741
+lolv2_synth_r185929e9t.png,Hybrid (proposed),17.807,0.7505,0.2522
+lolv2_synth_r18791531t.png,Zero-DCE++,22.159,0.8993,0.0136
+lolv2_synth_r18791531t.png,RetinexNet,17.818,0.5836,0.0536
+lolv2_synth_r18791531t.png,Transformer,15.596,0.6304,0.1719
+lolv2_synth_r18791531t.png,Hybrid (proposed),17.817,0.7468,0.2492
+lolv2_synth_r18798194t.png,Zero-DCE++,20.164,0.8841,0.0136
+lolv2_synth_r18798194t.png,RetinexNet,13.528,0.6037,0.0535
+lolv2_synth_r18798194t.png,Transformer,17.175,0.7460,0.1735
+lolv2_synth_r18798194t.png,Hybrid (proposed),17.717,0.8242,0.2490
+lolv2_synth_r1889220ft.png,Zero-DCE++,8.449,0.5532,0.0135
+lolv2_synth_r1889220ft.png,RetinexNet,15.542,0.4447,0.0534
+lolv2_synth_r1889220ft.png,Transformer,16.442,0.6174,0.1736
+lolv2_synth_r1889220ft.png,Hybrid (proposed),15.803,0.7028,0.2532
+lolv2_synth_r18990432t.png,Zero-DCE++,13.273,0.7699,0.0135
+lolv2_synth_r18990432t.png,RetinexNet,15.003,0.6378,0.0536
+lolv2_synth_r18990432t.png,Transformer,14.086,0.6934,0.1720
+lolv2_synth_r18990432t.png,Hybrid (proposed),15.672,0.7364,0.2498
+lolv2_synth_r1904147dt.png,Zero-DCE++,17.459,0.9218,0.0136
+lolv2_synth_r1904147dt.png,RetinexNet,19.169,0.7478,0.0554
+lolv2_synth_r1904147dt.png,Transformer,16.738,0.7673,0.1722
+lolv2_synth_r1904147dt.png,Hybrid (proposed),17.582,0.8383,0.2495
+lolv2_synth_r191488c6t.png,Zero-DCE++,15.354,0.9426,0.0138
+lolv2_synth_r191488c6t.png,RetinexNet,25.398,0.8991,0.0543
+lolv2_synth_r191488c6t.png,Transformer,24.289,0.9507,0.1732
+lolv2_synth_r191488c6t.png,Hybrid (proposed),14.463,0.9335,0.0152
+lolv2_synth_r1915909et.png,Zero-DCE++,22.173,0.9199,0.0135
+lolv2_synth_r1915909et.png,RetinexNet,17.990,0.6101,0.0542
+lolv2_synth_r1915909et.png,Transformer,18.311,0.6935,0.1722
+lolv2_synth_r1915909et.png,Hybrid (proposed),18.969,0.8131,0.2498
+lolv2_synth_r19183258t.png,Zero-DCE++,9.501,0.6465,0.0135
+lolv2_synth_r19183258t.png,RetinexNet,16.706,0.7316,0.0532
+lolv2_synth_r19183258t.png,Transformer,12.080,0.8875,0.1728
+lolv2_synth_r19183258t.png,Hybrid (proposed),22.367,0.9855,0.0027
+lolv2_synth_r197770adt.png,Zero-DCE++,17.531,0.6883,0.0135
+lolv2_synth_r197770adt.png,RetinexNet,18.556,0.4892,0.0537
+lolv2_synth_r197770adt.png,Transformer,16.186,0.4483,0.1722
+lolv2_synth_r197770adt.png,Hybrid (proposed),18.886,0.5933,0.2499
+velol_real_00690.png,Zero-DCE++,19.598,0.5238,0.0220
+velol_real_00690.png,RetinexNet,17.120,0.7324,0.0956
+velol_real_00690.png,Transformer,16.596,0.7336,0.2853
+velol_real_00690.png,Hybrid (proposed),18.998,0.7805,0.4327
+velol_real_00691.png,Zero-DCE++,19.260,0.4863,0.0221
+velol_real_00691.png,RetinexNet,17.162,0.7284,0.0960
+velol_real_00691.png,Transformer,16.584,0.7173,0.2839
+velol_real_00691.png,Hybrid (proposed),18.930,0.7499,0.4339
+velol_real_00692.png,Zero-DCE++,19.952,0.6054,0.0222
+velol_real_00692.png,RetinexNet,21.041,0.6798,0.0956
+velol_real_00692.png,Transformer,17.802,0.6363,0.2837
+velol_real_00692.png,Hybrid (proposed),21.054,0.7633,0.4344
+velol_real_00693.png,Zero-DCE++,20.030,0.6244,0.0223
+velol_real_00693.png,RetinexNet,21.382,0.6754,0.0961
+velol_real_00693.png,Transformer,17.899,0.6398,0.2835
+velol_real_00693.png,Hybrid (proposed),20.984,0.7631,0.4349
+velol_real_00694.png,Zero-DCE++,20.922,0.6011,0.0221
+velol_real_00694.png,RetinexNet,20.772,0.7092,0.0962
+velol_real_00694.png,Transformer,18.916,0.6711,0.2837
+velol_real_00694.png,Hybrid (proposed),21.562,0.7757,0.4342
+velol_real_00695.png,Zero-DCE++,20.923,0.5993,0.0222
+velol_real_00695.png,RetinexNet,20.781,0.7087,0.0965
+velol_real_00695.png,Transformer,18.928,0.6711,0.2853
+velol_real_00695.png,Hybrid (proposed),21.571,0.7749,0.4351
+velol_real_00696.png,Zero-DCE++,16.530,0.4024,0.0222
+velol_real_00696.png,RetinexNet,19.750,0.7429,0.0959
+velol_real_00696.png,Transformer,17.814,0.6951,0.2826
+velol_real_00696.png,Hybrid (proposed),21.279,0.7504,0.4331
+velol_real_00697.png,Zero-DCE++,16.485,0.3955,0.0224
+velol_real_00697.png,RetinexNet,19.767,0.7420,0.0968
+velol_real_00697.png,Transformer,17.819,0.6929,0.2841
+velol_real_00697.png,Hybrid (proposed),21.268,0.7457,0.4339
+velol_real_00698.png,Zero-DCE++,16.970,0.3300,0.0219
+velol_real_00698.png,RetinexNet,20.137,0.8007,0.0950
+velol_real_00698.png,Transformer,19.731,0.7768,0.2847
+velol_real_00698.png,Hybrid (proposed),22.044,0.7635,0.4342
+velol_real_00699.png,Zero-DCE++,16.910,0.3134,0.0219
+velol_real_00699.png,RetinexNet,20.188,0.7954,0.0964
+velol_real_00699.png,Transformer,19.741,0.7718,0.2831
+velol_real_00699.png,Hybrid (proposed),22.022,0.7496,0.4328
+velol_real_00700.png,Zero-DCE++,12.575,0.5243,0.0219
+velol_real_00700.png,RetinexNet,17.818,0.7653,0.0964
+velol_real_00700.png,Transformer,14.899,0.7307,0.2833
+velol_real_00700.png,Hybrid (proposed),15.426,0.7357,0.4334
+velol_real_00701.png,Zero-DCE++,12.615,0.5315,0.0219
+velol_real_00701.png,RetinexNet,17.840,0.7683,0.0975
+velol_real_00701.png,Transformer,14.921,0.7359,0.2850
+velol_real_00701.png,Hybrid (proposed),15.456,0.7429,0.4340
+velol_real_00702.png,Zero-DCE++,14.700,0.4725,0.0219
+velol_real_00702.png,RetinexNet,15.981,0.7269,0.0959
+velol_real_00702.png,Transformer,19.179,0.7382,0.2836
+velol_real_00702.png,Hybrid (proposed),17.894,0.7499,0.4342
+velol_real_00703.png,Zero-DCE++,14.668,0.4713,0.0219
+velol_real_00703.png,RetinexNet,15.967,0.7265,0.0967
+velol_real_00703.png,Transformer,19.178,0.7382,0.2846
+velol_real_00703.png,Hybrid (proposed),17.875,0.7497,0.4342
+velol_real_00704.png,Zero-DCE++,14.562,0.4680,0.0219
+velol_real_00704.png,RetinexNet,15.922,0.7260,0.0967
+velol_real_00704.png,Transformer,19.151,0.7372,0.2845
+velol_real_00704.png,Hybrid (proposed),17.808,0.7479,0.4340
+velol_real_00705.png,Zero-DCE++,14.148,0.3802,0.0219
+velol_real_00705.png,RetinexNet,17.224,0.7317,0.0961
+velol_real_00705.png,Transformer,20.880,0.7552,0.2838
+velol_real_00705.png,Hybrid (proposed),19.004,0.7376,0.4346
+velol_real_00706.png,Zero-DCE++,14.340,0.3937,0.0219
+velol_real_00706.png,RetinexNet,17.136,0.7379,0.0962
+velol_real_00706.png,Transformer,21.176,0.7574,0.2843
+velol_real_00706.png,Hybrid (proposed),18.975,0.7395,0.4336
+velol_real_00707.png,Zero-DCE++,14.128,0.3796,0.0219
+velol_real_00707.png,RetinexNet,17.208,0.7329,0.0971
+velol_real_00707.png,Transformer,20.926,0.7559,0.2838
+velol_real_00707.png,Hybrid (proposed),19.000,0.7381,0.4343
+velol_real_00708.png,Zero-DCE++,20.974,0.4523,0.0219
+velol_real_00708.png,RetinexNet,17.744,0.7409,0.0948
+velol_real_00708.png,Transformer,17.028,0.7463,0.2849
+velol_real_00708.png,Hybrid (proposed),19.077,0.7547,0.4339
+velol_real_00709.png,Zero-DCE++,20.439,0.4667,0.0219
+velol_real_00709.png,RetinexNet,17.644,0.7422,0.0957
+velol_real_00709.png,Transformer,16.884,0.7474,0.2841
+velol_real_00709.png,Hybrid (proposed),18.819,0.7584,0.4325
+velol_real_00710.png,Zero-DCE++,16.925,0.6349,0.0219
+velol_real_00710.png,RetinexNet,17.003,0.8279,0.0955
+velol_real_00710.png,Transformer,16.064,0.8161,0.2843
+velol_real_00710.png,Hybrid (proposed),16.800,0.8340,0.4340
+velol_real_00711.png,Zero-DCE++,16.966,0.6348,0.0219
+velol_real_00711.png,RetinexNet,16.998,0.8280,0.0958
+velol_real_00711.png,Transformer,16.069,0.8161,0.2844
+velol_real_00711.png,Hybrid (proposed),16.809,0.8342,0.4347
+velol_real_00712.png,Zero-DCE++,16.172,0.8055,0.0220
+velol_real_00712.png,RetinexNet,20.156,0.8460,0.0959
+velol_real_00712.png,Transformer,20.422,0.8638,0.2835
+velol_real_00712.png,Hybrid (proposed),20.252,0.8916,0.4337
+velol_real_00713.png,Zero-DCE++,16.049,0.8060,0.0220
+velol_real_00713.png,RetinexNet,20.197,0.8459,0.0955
+velol_real_00713.png,Transformer,20.401,0.8632,0.2846
+velol_real_00713.png,Hybrid (proposed),20.208,0.8906,0.4361
+velol_real_00714.png,Zero-DCE++,16.540,0.6758,0.0220
+velol_real_00714.png,RetinexNet,18.384,0.5686,0.0953
+velol_real_00714.png,Transformer,14.223,0.5774,0.2845
+velol_real_00714.png,Hybrid (proposed),16.528,0.7375,0.4347
+velol_real_00715.png,Zero-DCE++,16.793,0.6751,0.0220
+velol_real_00715.png,RetinexNet,18.257,0.5670,0.0971
+velol_real_00715.png,Transformer,14.191,0.5800,0.2843
+velol_real_00715.png,Hybrid (proposed),16.594,0.7434,0.4341
+velol_real_00716.png,Zero-DCE++,12.944,0.6405,0.0227
+velol_real_00716.png,RetinexNet,17.444,0.8045,0.0974
+velol_real_00716.png,Transformer,14.469,0.7819,0.2842
+velol_real_00716.png,Hybrid (proposed),15.163,0.8087,0.4346
+velol_real_00717.png,Zero-DCE++,17.839,0.4003,0.0220
+velol_real_00717.png,RetinexNet,18.553,0.8179,0.0956
+velol_real_00717.png,Transformer,18.721,0.7798,0.2835
+velol_real_00717.png,Hybrid (proposed),20.181,0.7824,0.4333
+velol_real_00718.png,Zero-DCE++,10.706,0.5814,0.0220
+velol_real_00718.png,RetinexNet,13.569,0.5844,0.0961
+velol_real_00718.png,Transformer,11.723,0.6535,0.2846
+velol_real_00718.png,Hybrid (proposed),12.340,0.6837,0.4348
+velol_real_00719.png,Zero-DCE++,10.726,0.5841,0.0219
+velol_real_00719.png,RetinexNet,13.586,0.5848,0.1004
+velol_real_00719.png,Transformer,11.702,0.6557,0.2844
+velol_real_00719.png,Hybrid (proposed),12.332,0.6859,0.4329
+velol_real_00720.png,Zero-DCE++,16.073,0.5714,0.0220
+velol_real_00720.png,RetinexNet,19.051,0.7199,0.0961
+velol_real_00720.png,Transformer,13.870,0.6683,0.2845
+velol_real_00720.png,Hybrid (proposed),16.184,0.7743,0.4326
+velol_real_00721.png,Zero-DCE++,16.504,0.5684,0.0219
+velol_real_00721.png,RetinexNet,18.757,0.7124,0.0956
+velol_real_00721.png,Transformer,13.935,0.6709,0.2837
+velol_real_00721.png,Hybrid (proposed),16.351,0.7790,0.4349
+velol_real_00722.png,Zero-DCE++,10.936,0.5838,0.0219
+velol_real_00722.png,RetinexNet,14.642,0.5528,0.0960
+velol_real_00722.png,Transformer,11.364,0.6068,0.2831
+velol_real_00722.png,Hybrid (proposed),12.433,0.7130,0.4347
+velol_real_00723.png,Zero-DCE++,10.716,0.5851,0.0219
+velol_real_00723.png,RetinexNet,14.536,0.5528,0.0953
+velol_real_00723.png,Transformer,11.203,0.6012,0.2844
+velol_real_00723.png,Hybrid (proposed),12.234,0.7042,0.4337
+velol_real_00724.png,Zero-DCE++,12.661,0.5062,0.0219
+velol_real_00724.png,RetinexNet,14.587,0.4677,0.0956
+velol_real_00724.png,Transformer,11.291,0.5202,0.2837
+velol_real_00724.png,Hybrid (proposed),12.739,0.6402,0.4346
+velol_real_00725.png,Zero-DCE++,12.404,0.5204,0.0221
+velol_real_00725.png,RetinexNet,14.438,0.4684,0.0959
+velol_real_00725.png,Transformer,11.195,0.5304,0.2856
+velol_real_00725.png,Hybrid (proposed),12.582,0.6531,0.4337
+velol_real_00726.png,Zero-DCE++,9.924,0.6555,0.0219
+velol_real_00726.png,RetinexNet,14.571,0.4093,0.0958
+velol_real_00726.png,Transformer,11.531,0.5531,0.2860
+velol_real_00726.png,Hybrid (proposed),12.140,0.6707,0.4350
+velol_real_00727.png,Zero-DCE++,10.145,0.6426,0.0219
+velol_real_00727.png,RetinexNet,14.544,0.4139,0.0964
+velol_real_00727.png,Transformer,11.424,0.5528,0.2839
+velol_real_00727.png,Hybrid (proposed),12.158,0.6786,0.4350
+velol_real_00728.png,Zero-DCE++,10.108,0.5884,0.0224
+velol_real_00728.png,RetinexNet,14.549,0.4108,0.0967
+velol_real_00728.png,Transformer,11.417,0.5273,0.2843
+velol_real_00728.png,Hybrid (proposed),12.143,0.6395,0.4363
+velol_real_00729.png,Zero-DCE++,8.680,0.6310,0.0220
+velol_real_00729.png,RetinexNet,14.116,0.7204,0.0967
+velol_real_00729.png,Transformer,11.946,0.7499,0.2839
+velol_real_00729.png,Hybrid (proposed),11.792,0.7552,0.4339
+velol_real_00730.png,Zero-DCE++,8.771,0.6289,0.0221
+velol_real_00730.png,RetinexNet,13.893,0.7167,0.0966
+velol_real_00730.png,Transformer,11.800,0.7479,0.2843
+velol_real_00730.png,Hybrid (proposed),11.695,0.7552,0.4348
+velol_real_00731.png,Zero-DCE++,10.794,0.6745,0.0219
+velol_real_00731.png,RetinexNet,16.174,0.6608,0.0956
+velol_real_00731.png,Transformer,13.147,0.7141,0.2836
+velol_real_00731.png,Hybrid (proposed),13.604,0.7586,0.4331
+velol_real_00732.png,Zero-DCE++,10.969,0.6688,0.0219
+velol_real_00732.png,RetinexNet,15.740,0.6556,0.0971
+velol_real_00732.png,Transformer,13.073,0.7124,0.2848
+velol_real_00732.png,Hybrid (proposed),13.544,0.7586,0.4331
+velol_real_00733.png,Zero-DCE++,10.998,0.6520,0.0219
+velol_real_00733.png,RetinexNet,18.057,0.7302,0.0974
+velol_real_00733.png,Transformer,14.506,0.7497,0.2856
+velol_real_00733.png,Hybrid (proposed),14.881,0.7856,0.4338
+velol_real_00734.png,Zero-DCE++,10.940,0.6533,0.0219
+velol_real_00734.png,RetinexNet,18.044,0.7305,0.0954
+velol_real_00734.png,Transformer,14.533,0.7505,0.2842
+velol_real_00734.png,Hybrid (proposed),14.884,0.7860,0.4330
+velol_real_00735.png,Zero-DCE++,14.519,0.5987,0.0219
+velol_real_00735.png,RetinexNet,16.827,0.5940,0.0961
+velol_real_00735.png,Transformer,13.405,0.6354,0.2841
+velol_real_00735.png,Hybrid (proposed),15.067,0.7174,0.4321
+velol_real_00736.png,Zero-DCE++,14.559,0.6073,0.0219
+velol_real_00736.png,RetinexNet,16.835,0.5947,0.0956
+velol_real_00736.png,Transformer,13.420,0.6413,0.2846
+velol_real_00736.png,Hybrid (proposed),15.088,0.7246,0.4332
+velol_real_00737.png,Zero-DCE++,12.069,0.6486,0.0219
+velol_real_00737.png,RetinexNet,16.953,0.6519,0.0960
+velol_real_00737.png,Transformer,13.766,0.7153,0.2847
+velol_real_00737.png,Hybrid (proposed),14.377,0.7580,0.4339
+velol_real_00738.png,Zero-DCE++,12.380,0.6404,0.0219
+velol_real_00738.png,RetinexNet,17.227,0.6533,0.0958
+velol_real_00738.png,Transformer,13.629,0.7179,0.2848
+velol_real_00738.png,Hybrid (proposed),14.475,0.7657,0.4331
+velol_real_00739.png,Zero-DCE++,19.665,0.3973,0.0219
+velol_real_00739.png,RetinexNet,17.429,0.7338,0.0955
+velol_real_00739.png,Transformer,18.126,0.7387,0.2830
+velol_real_00739.png,Hybrid (proposed),20.106,0.7565,0.4324
+velol_real_00740.png,Zero-DCE++,19.562,0.3936,0.0219
+velol_real_00740.png,RetinexNet,17.422,0.7332,0.0962
+velol_real_00740.png,Transformer,18.127,0.7375,0.2852
+velol_real_00740.png,Hybrid (proposed),20.091,0.7540,0.4331
+velol_real_00741.png,Zero-DCE++,13.102,0.5375,0.0219
+velol_real_00741.png,RetinexNet,17.676,0.7526,0.0954
+velol_real_00741.png,Transformer,13.934,0.7402,0.2844
+velol_real_00741.png,Hybrid (proposed),14.880,0.7646,0.4337
+velol_real_00742.png,Zero-DCE++,14.820,0.2651,0.0219
+velol_real_00742.png,RetinexNet,21.190,0.7560,0.0949
+velol_real_00742.png,Transformer,20.538,0.7525,0.2841
+velol_real_00742.png,Hybrid (proposed),22.530,0.7261,0.4333
+velol_real_00743.png,Zero-DCE++,12.856,0.5814,0.0219
+velol_real_00743.png,RetinexNet,16.755,0.6892,0.0953
+velol_real_00743.png,Transformer,15.533,0.7620,0.2851
+velol_real_00743.png,Hybrid (proposed),15.748,0.7816,0.4335
+velol_real_00744.png,Zero-DCE++,17.229,0.5151,0.0219
+velol_real_00744.png,RetinexNet,19.638,0.7234,0.0954
+velol_real_00744.png,Transformer,17.062,0.7505,0.2850
+velol_real_00744.png,Hybrid (proposed),18.299,0.7808,0.4342
+velol_real_00745.png,Zero-DCE++,15.001,0.5403,0.0219
+velol_real_00745.png,RetinexNet,14.365,0.5485,0.0952
+velol_real_00745.png,Transformer,13.787,0.6453,0.2837
+velol_real_00745.png,Hybrid (proposed),14.998,0.6913,0.4330
+velol_real_00746.png,Zero-DCE++,14.965,0.5270,0.0219
+velol_real_00746.png,RetinexNet,14.371,0.5474,0.0949
+velol_real_00746.png,Transformer,13.774,0.6414,0.2851
+velol_real_00746.png,Hybrid (proposed),14.978,0.6822,0.4333
+velol_real_00747.png,Zero-DCE++,16.733,0.5301,0.0218
+velol_real_00747.png,RetinexNet,17.907,0.7106,0.0955
+velol_real_00747.png,Transformer,15.153,0.7113,0.2834
+velol_real_00747.png,Hybrid (proposed),16.854,0.7702,0.4337
+velol_real_00748.png,Zero-DCE++,16.627,0.5396,0.0219
+velol_real_00748.png,RetinexNet,18.013,0.7156,0.0961
+velol_real_00748.png,Transformer,15.146,0.7183,0.2838
+velol_real_00748.png,Hybrid (proposed),16.863,0.7792,0.4338
+velol_real_00749.png,Zero-DCE++,18.626,0.4660,0.0223
+velol_real_00749.png,RetinexNet,17.881,0.7167,0.0954
+velol_real_00749.png,Transformer,16.736,0.7501,0.2853
+velol_real_00749.png,Hybrid (proposed),18.081,0.7597,0.4325
+velol_real_00750.png,Zero-DCE++,20.128,0.4264,0.0224
+velol_real_00750.png,RetinexNet,19.277,0.7254,0.0962
+velol_real_00750.png,Transformer,17.059,0.7435,0.2846
+velol_real_00750.png,Hybrid (proposed),19.242,0.7510,0.4323
+velol_real_00751.png,Zero-DCE++,19.649,0.3987,0.0226
+velol_real_00751.png,RetinexNet,17.530,0.7235,0.0972
+velol_real_00751.png,Transformer,15.177,0.7290,0.2848
+velol_real_00751.png,Hybrid (proposed),17.805,0.7486,0.4333
+velol_real_00752.png,Zero-DCE++,19.798,0.4263,0.0225
+velol_real_00752.png,RetinexNet,16.720,0.7158,0.0963
+velol_real_00752.png,Transformer,15.204,0.7301,0.2852
+velol_real_00752.png,Hybrid (proposed),17.011,0.7425,0.4327
+velol_real_00753.png,Zero-DCE++,14.856,0.3922,0.0219
+velol_real_00753.png,RetinexNet,15.516,0.7204,0.0949
+velol_real_00753.png,Transformer,11.791,0.6694,0.2849
+velol_real_00753.png,Hybrid (proposed),13.803,0.6986,0.4337
+velol_real_00754.png,Zero-DCE++,14.927,0.3929,0.0219
+velol_real_00754.png,RetinexNet,15.556,0.7217,0.0952
+velol_real_00754.png,Transformer,11.818,0.6702,0.2842
+velol_real_00754.png,Hybrid (proposed),13.849,0.7004,0.4329
+velol_real_00755.png,Zero-DCE++,18.338,0.3199,0.0219
+velol_real_00755.png,RetinexNet,20.561,0.7757,0.0955
+velol_real_00755.png,Transformer,14.425,0.6992,0.2848
+velol_real_00755.png,Hybrid (proposed),18.663,0.7427,0.4330
+velol_real_00756.png,Zero-DCE++,18.265,0.3082,0.0219
+velol_real_00756.png,RetinexNet,20.683,0.7760,0.0953
+velol_real_00756.png,Transformer,14.470,0.6963,0.2834
+velol_real_00756.png,Hybrid (proposed),18.759,0.7356,0.4330
+velol_real_00757.png,Zero-DCE++,18.773,0.4002,0.0218
+velol_real_00757.png,RetinexNet,23.861,0.7723,0.0956
+velol_real_00757.png,Transformer,17.819,0.7583,0.2840
+velol_real_00757.png,Hybrid (proposed),21.890,0.7780,0.4343
+velol_real_00758.png,Zero-DCE++,20.108,0.4069,0.0219
+velol_real_00758.png,RetinexNet,24.862,0.7753,0.0951
+velol_real_00758.png,Transformer,17.962,0.7641,0.2837
+velol_real_00758.png,Hybrid (proposed),21.653,0.7746,0.4337
+velol_real_00759.png,Zero-DCE++,12.870,0.5230,0.0219
+velol_real_00759.png,RetinexNet,16.541,0.6395,0.0969
+velol_real_00759.png,Transformer,12.601,0.6306,0.2842
+velol_real_00759.png,Hybrid (proposed),14.204,0.6959,0.4347
+velol_real_00760.png,Zero-DCE++,13.079,0.5518,0.0219
+velol_real_00760.png,RetinexNet,16.358,0.6481,0.0966
+velol_real_00760.png,Transformer,12.496,0.6390,0.2853
+velol_real_00760.png,Hybrid (proposed),14.173,0.7212,0.4333
+velol_real_00761.png,Zero-DCE++,16.797,0.4802,0.0219
+velol_real_00761.png,RetinexNet,17.321,0.7472,0.0955
+velol_real_00761.png,Transformer,13.818,0.7011,0.2846
+velol_real_00761.png,Hybrid (proposed),16.038,0.7372,0.4330
+velol_real_00762.png,Zero-DCE++,17.093,0.4783,0.0219
+velol_real_00762.png,RetinexNet,17.447,0.7492,0.0956
+velol_real_00762.png,Transformer,13.903,0.7028,0.2827
+velol_real_00762.png,Hybrid (proposed),16.193,0.7391,0.4329
+velol_real_00763.png,Zero-DCE++,12.311,0.3771,0.0219
+velol_real_00763.png,RetinexNet,13.988,0.6908,0.0957
+velol_real_00763.png,Transformer,10.633,0.6478,0.2859
+velol_real_00763.png,Hybrid (proposed),12.046,0.6701,0.4328
+velol_real_00764.png,Zero-DCE++,12.949,0.3676,0.0223
+velol_real_00764.png,RetinexNet,14.996,0.7107,0.0959
+velol_real_00764.png,Transformer,10.640,0.6468,0.2834
+velol_real_00764.png,Hybrid (proposed),12.532,0.6784,0.4326
+velol_real_00765.png,Zero-DCE++,17.571,0.6101,0.0219
+velol_real_00765.png,RetinexNet,17.362,0.4918,0.0967
+velol_real_00765.png,Transformer,13.640,0.5146,0.2846
+velol_real_00765.png,Hybrid (proposed),16.394,0.6667,0.4340
+velol_real_00766.png,Zero-DCE++,17.707,0.6219,0.0219
+velol_real_00766.png,RetinexNet,17.371,0.4940,0.0955
+velol_real_00766.png,Transformer,13.651,0.5196,0.2854
+velol_real_00766.png,Hybrid (proposed),16.423,0.6753,0.4341
+velol_real_00767.png,Zero-DCE++,17.379,0.3786,0.0219
+velol_real_00767.png,RetinexNet,18.209,0.7154,0.0956
+velol_real_00767.png,Transformer,14.865,0.6121,0.2851
+velol_real_00767.png,Hybrid (proposed),18.337,0.6890,0.4348
+velol_real_00768.png,Zero-DCE++,19.139,0.3907,0.0219
+velol_real_00768.png,RetinexNet,18.879,0.7298,0.0953
+velol_real_00768.png,Transformer,15.897,0.6229,0.2845
+velol_real_00768.png,Hybrid (proposed),19.632,0.6936,0.4352
+velol_real_00769.png,Zero-DCE++,15.823,0.3412,0.0219
+velol_real_00769.png,RetinexNet,15.933,0.6682,0.0952
+velol_real_00769.png,Transformer,11.816,0.6063,0.2848
+velol_real_00769.png,Hybrid (proposed),14.185,0.6191,0.4337
+velol_real_00770.png,Zero-DCE++,15.750,0.3392,0.0220
+velol_real_00770.png,RetinexNet,15.879,0.6673,0.0957
+velol_real_00770.png,Transformer,11.788,0.6046,0.2842
+velol_real_00770.png,Hybrid (proposed),14.136,0.6163,0.4339
+velol_real_00771.png,Zero-DCE++,11.966,0.3898,0.0219
+velol_real_00771.png,RetinexNet,14.803,0.5138,0.0957
+velol_real_00771.png,Transformer,11.055,0.5050,0.2846
+velol_real_00771.png,Hybrid (proposed),12.417,0.5420,0.4337
+velol_real_00772.png,Zero-DCE++,11.839,0.4531,0.0219
+velol_real_00772.png,RetinexNet,14.974,0.5214,0.0955
+velol_real_00772.png,Transformer,10.992,0.5695,0.2849
+velol_real_00772.png,Hybrid (proposed),12.380,0.6040,0.4336
+velol_real_00773.png,Zero-DCE++,18.082,0.3979,0.0219
+velol_real_00773.png,RetinexNet,23.949,0.8225,0.0959
+velol_real_00773.png,Transformer,18.163,0.7789,0.2832
+velol_real_00773.png,Hybrid (proposed),22.514,0.7893,0.4337
+velol_real_00774.png,Zero-DCE++,17.728,0.3830,0.0219
+velol_real_00774.png,RetinexNet,23.407,0.8173,0.0951
+velol_real_00774.png,Transformer,17.965,0.7747,0.2827
+velol_real_00774.png,Hybrid (proposed),22.640,0.7847,0.4337
+velol_real_00775.png,Zero-DCE++,16.622,0.6196,0.0219
+velol_real_00775.png,RetinexNet,18.687,0.5587,0.0956
+velol_real_00775.png,Transformer,14.450,0.5664,0.2855
+velol_real_00775.png,Hybrid (proposed),17.006,0.6882,0.4339
+velol_real_00776.png,Zero-DCE++,17.109,0.6183,0.0219
+velol_real_00776.png,RetinexNet,18.155,0.5525,0.0955
+velol_real_00776.png,Transformer,14.397,0.5646,0.2843
+velol_real_00776.png,Hybrid (proposed),17.023,0.6899,0.4326
+velol_real_00777.png,Zero-DCE++,19.508,0.5204,0.0219
+velol_real_00777.png,RetinexNet,19.918,0.5645,0.0961
+velol_real_00777.png,Transformer,16.096,0.5333,0.2851
+velol_real_00777.png,Hybrid (proposed),20.087,0.6717,0.4325
+velol_real_00778.png,Zero-DCE++,19.796,0.5340,0.0219
+velol_real_00778.png,RetinexNet,19.774,0.5602,0.0965
+velol_real_00778.png,Transformer,16.149,0.5311,0.2845
+velol_real_00778.png,Hybrid (proposed),20.122,0.6760,0.4343
+velol_real_00779.png,Zero-DCE++,14.989,0.4111,0.0219
+velol_real_00779.png,RetinexNet,15.682,0.6679,0.0950
+velol_real_00779.png,Transformer,11.820,0.6224,0.2848
+velol_real_00779.png,Hybrid (proposed),13.886,0.6603,0.4338
+velol_real_00780.png,Zero-DCE++,15.129,0.4119,0.0219
+velol_real_00780.png,RetinexNet,15.715,0.6691,0.0950
+velol_real_00780.png,Transformer,11.849,0.6224,0.2848
+velol_real_00780.png,Hybrid (proposed),13.942,0.6615,0.4333
+velol_real_00781.png,Zero-DCE++,17.895,0.6660,0.0220
+velol_real_00781.png,RetinexNet,17.777,0.5432,0.0974
+velol_real_00781.png,Transformer,15.061,0.5818,0.2851
+velol_real_00781.png,Hybrid (proposed),17.248,0.7334,0.4336
+velol_real_00782.png,Zero-DCE++,18.142,0.6885,0.0219
+velol_real_00782.png,RetinexNet,17.794,0.5453,0.0973
+velol_real_00782.png,Transformer,15.088,0.5904,0.2848
+velol_real_00782.png,Hybrid (proposed),17.319,0.7498,0.4346
+velol_real_00783.png,Zero-DCE++,18.111,0.6875,0.0219
+velol_real_00783.png,RetinexNet,17.799,0.5457,0.0962
+velol_real_00783.png,Transformer,15.086,0.5902,0.2847
+velol_real_00783.png,Hybrid (proposed),17.316,0.7495,0.4343
+velol_real_00784.png,Zero-DCE++,15.894,0.5431,0.0221
+velol_real_00784.png,RetinexNet,17.598,0.5257,0.0968
+velol_real_00784.png,Transformer,17.404,0.4997,0.2838
+velol_real_00784.png,Hybrid (proposed),19.340,0.6690,0.4332
+velol_real_00785.png,Zero-DCE++,15.849,0.5342,0.0223
+velol_real_00785.png,RetinexNet,17.589,0.5240,0.0969
+velol_real_00785.png,Transformer,17.399,0.4972,0.2845
+velol_real_00785.png,Hybrid (proposed),19.313,0.6626,0.4346
+velol_real_00786.png,Zero-DCE++,15.892,0.5461,0.0219
+velol_real_00786.png,RetinexNet,17.592,0.5256,0.0959
+velol_real_00786.png,Transformer,17.418,0.5008,0.2848
+velol_real_00786.png,Hybrid (proposed),19.353,0.6722,0.4344
+velol_real_00787.png,Zero-DCE++,16.070,0.3639,0.0219
+velol_real_00787.png,RetinexNet,23.835,0.6808,0.0954
+velol_real_00787.png,Transformer,18.297,0.6000,0.2861
+velol_real_00787.png,Hybrid (proposed),24.150,0.7029,0.4343
+velol_real_00788.png,Zero-DCE++,15.790,0.3568,0.0219
+velol_real_00788.png,RetinexNet,23.382,0.6758,0.0954
+velol_real_00788.png,Transformer,18.456,0.5980,0.2849
+velol_real_00788.png,Hybrid (proposed),24.118,0.6993,0.4331
+velol_real_00789.png,Zero-DCE++,15.822,0.3581,0.0219
+velol_real_00789.png,RetinexNet,23.442,0.6768,0.0953
+velol_real_00789.png,Transformer,18.432,0.5988,0.2832
+velol_real_00789.png,Hybrid (proposed),24.112,0.7009,0.4343
+velol_synth_r00816405t.png,Zero-DCE++,15.303,0.6177,0.0136
+velol_synth_r00816405t.png,RetinexNet,17.303,0.4704,0.0536
+velol_synth_r00816405t.png,Transformer,17.671,0.6186,0.1730
+velol_synth_r00816405t.png,Hybrid (proposed),19.085,0.7165,0.2502
+velol_synth_r00869422t.png,Zero-DCE++,7.723,0.0573,0.0136
+velol_synth_r00869422t.png,RetinexNet,12.604,0.3098,0.0533
+velol_synth_r00869422t.png,Transformer,14.474,0.2627,0.1730
+velol_synth_r00869422t.png,Hybrid (proposed),14.252,0.1956,0.2507
+velol_synth_r00879054t.png,Zero-DCE++,14.615,0.4783,0.0136
+velol_synth_r00879054t.png,RetinexNet,16.407,0.6765,0.0531
+velol_synth_r00879054t.png,Transformer,19.672,0.7144,0.1738
+velol_synth_r00879054t.png,Hybrid (proposed),18.150,0.6849,0.2519
+velol_synth_r01058910t.png,Zero-DCE++,6.402,0.3169,0.0135
+velol_synth_r01058910t.png,RetinexNet,12.313,0.6751,0.0535
+velol_synth_r01058910t.png,Transformer,9.049,0.4323,0.1725
+velol_synth_r01058910t.png,Hybrid (proposed),6.420,0.3151,0.0153
+velol_synth_r01170470t.png,Zero-DCE++,14.937,0.5895,0.0135
+velol_synth_r01170470t.png,RetinexNet,17.476,0.6872,0.0537
+velol_synth_r01170470t.png,Transformer,21.554,0.7198,0.1728
+velol_synth_r01170470t.png,Hybrid (proposed),19.722,0.7348,0.2501
+velol_synth_r01474187t.png,Zero-DCE++,9.215,0.3436,0.0136
+velol_synth_r01474187t.png,RetinexNet,17.865,0.4453,0.0544
+velol_synth_r01474187t.png,Transformer,20.429,0.7249,0.1743
+velol_synth_r01474187t.png,Hybrid (proposed),18.182,0.6489,0.2502
+velol_synth_r0150031ft.png,Zero-DCE++,12.287,0.6039,0.0136
+velol_synth_r0150031ft.png,RetinexNet,18.637,0.7051,0.0540
+velol_synth_r0150031ft.png,Transformer,18.063,0.7763,0.1736
+velol_synth_r0150031ft.png,Hybrid (proposed),18.384,0.7613,0.2517
+velol_synth_r01559391t.png,Zero-DCE++,7.434,0.0613,0.0139
+velol_synth_r01559391t.png,RetinexNet,16.643,0.3886,0.0555
+velol_synth_r01559391t.png,Transformer,16.133,0.2632,0.1744
+velol_synth_r01559391t.png,Hybrid (proposed),15.745,0.1830,0.2510
+velol_synth_r02189767t.png,Zero-DCE++,10.199,0.2015,0.0136
+velol_synth_r02189767t.png,RetinexNet,13.608,0.5233,0.0535
+velol_synth_r02189767t.png,Transformer,16.054,0.4040,0.1735
+velol_synth_r02189767t.png,Hybrid (proposed),15.519,0.3464,0.2525
+velol_synth_r02354285t.png,Zero-DCE++,9.930,0.2706,0.0135
+velol_synth_r02354285t.png,RetinexNet,13.007,0.4112,0.0534
+velol_synth_r02354285t.png,Transformer,16.244,0.3801,0.1728
+velol_synth_r02354285t.png,Hybrid (proposed),14.737,0.3368,0.2511
+velol_synth_r02508493t.png,Zero-DCE++,15.073,0.4205,0.0135
+velol_synth_r02508493t.png,RetinexNet,17.415,0.6364,0.0534
+velol_synth_r02508493t.png,Transformer,19.581,0.6675,0.1742
+velol_synth_r02508493t.png,Hybrid (proposed),20.790,0.6799,0.2537
+velol_synth_r0287344at.png,Zero-DCE++,13.109,0.6245,0.0136
+velol_synth_r0287344at.png,RetinexNet,19.562,0.6608,0.0540
+velol_synth_r0287344at.png,Transformer,18.251,0.7919,0.1734
+velol_synth_r0287344at.png,Hybrid (proposed),18.408,0.8122,0.2508
+velol_synth_r02897203t.png,Zero-DCE++,11.313,0.2231,0.0136
+velol_synth_r02897203t.png,RetinexNet,17.292,0.5827,0.0540
+velol_synth_r02897203t.png,Transformer,21.893,0.5897,0.1730
+velol_synth_r02897203t.png,Hybrid (proposed),18.742,0.4499,0.2503
+velol_synth_r03193652t.png,Zero-DCE++,9.335,0.2112,0.0138
+velol_synth_r03193652t.png,RetinexNet,9.785,0.4450,0.0552
+velol_synth_r03193652t.png,Transformer,12.936,0.4109,0.1743
+velol_synth_r03193652t.png,Hybrid (proposed),12.166,0.3547,0.2514
+velol_synth_r0341853dt.png,Zero-DCE++,13.662,0.4499,0.0136
+velol_synth_r0341853dt.png,RetinexNet,13.381,0.5998,0.0534
+velol_synth_r0341853dt.png,Transformer,19.123,0.7096,0.1739
+velol_synth_r0341853dt.png,Hybrid (proposed),16.430,0.6876,0.2523
+velol_synth_r0372042dt.png,Zero-DCE++,6.668,0.0494,0.0136
+velol_synth_r0372042dt.png,RetinexNet,20.695,0.6178,0.0531
+velol_synth_r0372042dt.png,Transformer,17.222,0.2653,0.1730
+velol_synth_r0372042dt.png,Hybrid (proposed),16.535,0.1896,0.2511
+velol_synth_r04317453t.png,Zero-DCE++,11.853,0.1678,0.0136
+velol_synth_r04317453t.png,RetinexNet,13.719,0.5928,0.0542
+velol_synth_r04317453t.png,Transformer,20.394,0.5994,0.1740
+velol_synth_r04317453t.png,Hybrid (proposed),17.586,0.3979,0.2503
+velol_synth_r0465565ct.png,Zero-DCE++,13.281,0.4587,0.0136
+velol_synth_r0465565ct.png,RetinexNet,15.498,0.5478,0.0536
+velol_synth_r0465565ct.png,Transformer,18.997,0.6464,0.1742
+velol_synth_r0465565ct.png,Hybrid (proposed),18.418,0.6671,0.2524
+velol_synth_r05243256t.png,Zero-DCE++,8.845,0.2139,0.0136
+velol_synth_r05243256t.png,RetinexNet,19.628,0.5767,0.0534
+velol_synth_r05243256t.png,Transformer,14.143,0.6250,0.1726
+velol_synth_r05243256t.png,Hybrid (proposed),15.255,0.5458,0.2503
+velol_synth_r05772356t.png,Zero-DCE++,14.898,0.5900,0.0137
+velol_synth_r05772356t.png,RetinexNet,15.384,0.6194,0.0540
+velol_synth_r05772356t.png,Transformer,19.454,0.7404,0.1742
+velol_synth_r05772356t.png,Hybrid (proposed),18.281,0.7559,0.2520
+velol_synth_r05839451t.png,Zero-DCE++,10.371,0.6359,0.0136
+velol_synth_r05839451t.png,RetinexNet,18.241,0.6697,0.0536
+velol_synth_r05839451t.png,Transformer,17.434,0.7598,0.1731
+velol_synth_r05839451t.png,Hybrid (proposed),15.964,0.7539,0.2501
+velol_synth_r0589558at.png,Zero-DCE++,10.808,0.1138,0.0136
+velol_synth_r0589558at.png,RetinexNet,15.140,0.4441,0.0537
+velol_synth_r0589558at.png,Transformer,18.804,0.4671,0.1728
+velol_synth_r0589558at.png,Hybrid (proposed),18.378,0.3257,0.2504
+velol_synth_r0603031et.png,Zero-DCE++,8.922,0.1017,0.0135
+velol_synth_r0603031et.png,RetinexNet,15.503,0.3699,0.0535
+velol_synth_r0603031et.png,Transformer,15.976,0.3349,0.1733
+velol_synth_r0603031et.png,Hybrid (proposed),16.068,0.2629,0.2501
+velol_synth_r068812d7t.png,Zero-DCE++,14.193,0.4388,0.0137
+velol_synth_r068812d7t.png,RetinexNet,21.140,0.6974,0.0532
+velol_synth_r068812d7t.png,Transformer,15.990,0.6237,0.1740
+velol_synth_r068812d7t.png,Hybrid (proposed),18.153,0.6117,0.2511
+velol_synth_r0703243bt.png,Zero-DCE++,11.479,0.3780,0.0136
+velol_synth_r0703243bt.png,RetinexNet,16.378,0.5348,0.0536
+velol_synth_r0703243bt.png,Transformer,21.099,0.7072,0.1730
+velol_synth_r0703243bt.png,Hybrid (proposed),19.490,0.6759,0.2511
+velol_synth_r0708431at.png,Zero-DCE++,8.094,0.0723,0.0136
+velol_synth_r0708431at.png,RetinexNet,13.357,0.3227,0.0542
+velol_synth_r0708431at.png,Transformer,16.790,0.3422,0.1737
+velol_synth_r0708431at.png,Hybrid (proposed),15.739,0.2569,0.2503
+velol_synth_r072421a1t.png,Zero-DCE++,10.403,0.3193,0.0136
+velol_synth_r072421a1t.png,RetinexNet,18.309,0.7853,0.0533
+velol_synth_r072421a1t.png,Transformer,19.718,0.4476,0.1734
+velol_synth_r072421a1t.png,Hybrid (proposed),19.452,0.4749,0.2512
+velol_synth_r072649fdt.png,Zero-DCE++,13.064,0.3577,0.0136
+velol_synth_r072649fdt.png,RetinexNet,21.077,0.6494,0.0541
+velol_synth_r072649fdt.png,Transformer,14.630,0.6281,0.1723
+velol_synth_r072649fdt.png,Hybrid (proposed),17.036,0.6045,0.2522
+velol_synth_r07598392t.png,Zero-DCE++,12.735,0.2524,0.0136
+velol_synth_r07598392t.png,RetinexNet,13.957,0.5992,0.0532
+velol_synth_r07598392t.png,Transformer,16.884,0.6309,0.1738
+velol_synth_r07598392t.png,Hybrid (proposed),15.975,0.4682,0.2518
+velol_synth_r0773471dt.png,Zero-DCE++,8.448,0.0819,0.0136
+velol_synth_r0773471dt.png,RetinexNet,17.927,0.4191,0.0536
+velol_synth_r0773471dt.png,Transformer,20.365,0.4215,0.1745
+velol_synth_r0773471dt.png,Hybrid (proposed),18.703,0.2992,0.2519
+velol_synth_r077507cat.png,Zero-DCE++,8.163,0.2033,0.0142
+velol_synth_r077507cat.png,RetinexNet,13.524,0.3503,0.0569
+velol_synth_r077507cat.png,Transformer,15.184,0.2697,0.1745
+velol_synth_r077507cat.png,Hybrid (proposed),14.547,0.2654,0.2524
+velol_synth_r08079988t.png,Zero-DCE++,7.995,0.1347,0.0136
+velol_synth_r08079988t.png,RetinexNet,13.537,0.3457,0.0545
+velol_synth_r08079988t.png,Transformer,15.318,0.2649,0.1728
+velol_synth_r08079988t.png,Hybrid (proposed),15.016,0.2361,0.2496
+velol_synth_r0809811bt.png,Zero-DCE++,11.304,0.2134,0.0136
+velol_synth_r0809811bt.png,RetinexNet,13.309,0.4805,0.0534
+velol_synth_r0809811bt.png,Transformer,16.702,0.5158,0.1725
+velol_synth_r0809811bt.png,Hybrid (proposed),15.542,0.3719,0.2509
+velol_synth_r082626aft.png,Zero-DCE++,16.871,0.5530,0.0136
+velol_synth_r082626aft.png,RetinexNet,16.125,0.5812,0.0535
+velol_synth_r082626aft.png,Transformer,15.668,0.5844,0.1726
+velol_synth_r082626aft.png,Hybrid (proposed),17.274,0.6311,0.2505
+velol_synth_r084889d5t.png,Zero-DCE++,9.457,0.1071,0.0136
+velol_synth_r084889d5t.png,RetinexNet,12.248,0.5609,0.0531
+velol_synth_r084889d5t.png,Transformer,15.081,0.2568,0.1742
+velol_synth_r084889d5t.png,Hybrid (proposed),14.398,0.2437,0.2536
+velol_synth_r08788547t.png,Zero-DCE++,7.779,0.3319,0.0136
+velol_synth_r08788547t.png,RetinexNet,13.118,0.3782,0.0534
+velol_synth_r08788547t.png,Transformer,13.193,0.6148,0.1726
+velol_synth_r08788547t.png,Hybrid (proposed),12.548,0.5177,0.2497
+velol_synth_r08873591t.png,Zero-DCE++,13.432,0.1894,0.0139
+velol_synth_r08873591t.png,RetinexNet,17.561,0.5870,0.0559
+velol_synth_r08873591t.png,Transformer,12.720,0.5295,0.1732
+velol_synth_r08873591t.png,Hybrid (proposed),15.323,0.4396,0.2510
+velol_synth_r08996953t.png,Zero-DCE++,10.477,0.6351,0.0135
+velol_synth_r08996953t.png,RetinexNet,19.107,0.7573,0.0536
+velol_synth_r08996953t.png,Transformer,15.037,0.7944,0.1726
+velol_synth_r08996953t.png,Hybrid (proposed),14.783,0.7693,0.2495
+velol_synth_r0905697bt.png,Zero-DCE++,14.245,0.4330,0.0136
+velol_synth_r0905697bt.png,RetinexNet,14.636,0.7695,0.0533
+velol_synth_r0905697bt.png,Transformer,20.272,0.7764,0.1739
+velol_synth_r0905697bt.png,Hybrid (proposed),17.283,0.6084,0.2516
+velol_synth_r09245347t.png,Zero-DCE++,7.852,0.0681,0.0137
+velol_synth_r09245347t.png,RetinexNet,15.942,0.3739,0.0529
+velol_synth_r09245347t.png,Transformer,15.284,0.2634,0.1729
+velol_synth_r09245347t.png,Hybrid (proposed),15.314,0.1963,0.2539
+velol_synth_r09445479t.png,Zero-DCE++,11.934,0.3896,0.0136
+velol_synth_r09445479t.png,RetinexNet,12.740,0.6116,0.0533
+velol_synth_r09445479t.png,Transformer,17.425,0.4952,0.1735
+velol_synth_r09445479t.png,Hybrid (proposed),15.690,0.5219,0.2533
+velol_synth_r09670876t.png,Zero-DCE++,11.953,0.6998,0.0136
+velol_synth_r09670876t.png,RetinexNet,20.510,0.7159,0.0535
+velol_synth_r09670876t.png,Transformer,20.076,0.8186,0.1726
+velol_synth_r09670876t.png,Hybrid (proposed),11.718,0.6940,0.0155
+velol_synth_r096982ddt.png,Zero-DCE++,9.143,0.2564,0.0136
+velol_synth_r096982ddt.png,RetinexNet,19.744,0.7847,0.0532
+velol_synth_r096982ddt.png,Transformer,14.060,0.5729,0.1735
+velol_synth_r096982ddt.png,Hybrid (proposed),14.515,0.5048,0.2502
+velol_synth_r097088c1t.png,Zero-DCE++,13.147,0.3386,0.0136
+velol_synth_r097088c1t.png,RetinexNet,18.235,0.5489,0.0535
+velol_synth_r097088c1t.png,Transformer,16.760,0.5308,0.1724
+velol_synth_r097088c1t.png,Hybrid (proposed),18.862,0.5326,0.2501
+velol_synth_r097555c4t.png,Zero-DCE++,9.623,0.4526,0.0136
+velol_synth_r097555c4t.png,RetinexNet,20.180,0.7272,0.0534
+velol_synth_r097555c4t.png,Transformer,16.494,0.6428,0.1733
+velol_synth_r097555c4t.png,Hybrid (proposed),16.165,0.6409,0.2524
+velol_synth_r104153eat.png,Zero-DCE++,9.890,0.3814,0.0136
+velol_synth_r104153eat.png,RetinexNet,17.547,0.7235,0.0532
+velol_synth_r104153eat.png,Transformer,15.984,0.3122,0.1729
+velol_synth_r104153eat.png,Hybrid (proposed),16.019,0.3889,0.2505
+velol_synth_r107730b5t.png,Zero-DCE++,8.385,0.1149,0.0136
+velol_synth_r107730b5t.png,RetinexNet,18.589,0.5586,0.0540
+velol_synth_r107730b5t.png,Transformer,18.166,0.4608,0.1733
+velol_synth_r107730b5t.png,Hybrid (proposed),17.397,0.3516,0.2511
+velol_synth_r108301e3t.png,Zero-DCE++,13.359,0.4991,0.0136
+velol_synth_r108301e3t.png,RetinexNet,19.051,0.5872,0.0536
+velol_synth_r108301e3t.png,Transformer,17.180,0.6943,0.1724
+velol_synth_r108301e3t.png,Hybrid (proposed),19.955,0.7039,0.2500
+velol_synth_r10893508t.png,Zero-DCE++,14.267,0.5435,0.0136
+velol_synth_r10893508t.png,RetinexNet,18.044,0.5300,0.0534
+velol_synth_r10893508t.png,Transformer,15.690,0.6081,0.1739
+velol_synth_r10893508t.png,Hybrid (proposed),17.416,0.6393,0.2519
+velol_synth_r10940798t.png,Zero-DCE++,10.010,0.2645,0.0136
+velol_synth_r10940798t.png,RetinexNet,12.892,0.5614,0.0543
+velol_synth_r10940798t.png,Transformer,16.683,0.4080,0.1739
+velol_synth_r10940798t.png,Hybrid (proposed),15.214,0.3574,0.2500
+velol_synth_r113402d4t.png,Zero-DCE++,12.587,0.3531,0.0135
+velol_synth_r113402d4t.png,RetinexNet,13.438,0.5924,0.0535
+velol_synth_r113402d4t.png,Transformer,16.583,0.5766,0.1724
+velol_synth_r113402d4t.png,Hybrid (proposed),15.493,0.5143,0.2498
+velol_synth_r1148801et.png,Zero-DCE++,8.228,0.1741,0.0136
+velol_synth_r1148801et.png,RetinexNet,10.869,0.4372,0.0543
+velol_synth_r1148801et.png,Transformer,12.869,0.1940,0.1735
+velol_synth_r1148801et.png,Hybrid (proposed),12.514,0.2040,0.2500
+velol_synth_r116825e2t.png,Zero-DCE++,10.958,0.4486,0.0135
+velol_synth_r116825e2t.png,RetinexNet,20.314,0.6961,0.0534
+velol_synth_r116825e2t.png,Transformer,19.575,0.7020,0.1722
+velol_synth_r116825e2t.png,Hybrid (proposed),18.968,0.6972,0.2510
+velol_synth_r11850456t.png,Zero-DCE++,15.956,0.7097,0.0136
+velol_synth_r11850456t.png,RetinexNet,17.007,0.6657,0.0536
+velol_synth_r11850456t.png,Transformer,19.184,0.7778,0.1721
+velol_synth_r11850456t.png,Hybrid (proposed),19.710,0.8173,0.2508
+velol_synth_r12133015t.png,Zero-DCE++,12.162,0.4737,0.0135
+velol_synth_r12133015t.png,RetinexNet,15.064,0.5563,0.0536
+velol_synth_r12133015t.png,Transformer,19.276,0.5205,0.1731
+velol_synth_r12133015t.png,Hybrid (proposed),16.886,0.5677,0.2504
+velol_synth_r125034a9t.png,Zero-DCE++,10.056,0.3624,0.0138
+velol_synth_r125034a9t.png,RetinexNet,16.078,0.6191,0.0545
+velol_synth_r125034a9t.png,Transformer,11.593,0.6001,0.1735
+velol_synth_r125034a9t.png,Hybrid (proposed),12.837,0.5877,0.2509
+velol_synth_r125442fat.png,Zero-DCE++,8.897,0.1888,0.0136
+velol_synth_r125442fat.png,RetinexNet,12.908,0.3940,0.0542
+velol_synth_r125442fat.png,Transformer,16.732,0.4195,0.1727
+velol_synth_r125442fat.png,Hybrid (proposed),15.574,0.3798,0.2507
+velol_synth_r127608abt.png,Zero-DCE++,7.944,0.0842,0.0136
+velol_synth_r127608abt.png,RetinexNet,17.272,0.2813,0.0533
+velol_synth_r127608abt.png,Transformer,14.772,0.2198,0.1724
+velol_synth_r127608abt.png,Hybrid (proposed),15.126,0.1846,0.2498
+velol_synth_r12946364t.png,Zero-DCE++,9.187,0.0888,0.0136
+velol_synth_r12946364t.png,RetinexNet,14.235,0.5102,0.0538
+velol_synth_r12946364t.png,Transformer,22.012,0.4297,0.1739
+velol_synth_r12946364t.png,Hybrid (proposed),18.792,0.2399,0.2507
+velol_synth_r1301676dt.png,Zero-DCE++,13.537,0.3363,0.0137
+velol_synth_r1301676dt.png,RetinexNet,14.649,0.5415,0.0531
+velol_synth_r1301676dt.png,Transformer,14.902,0.5286,0.1729
+velol_synth_r1301676dt.png,Hybrid (proposed),15.747,0.4868,0.2503
+velol_synth_r13073518t.png,Zero-DCE++,12.313,0.4964,0.0136
+velol_synth_r13073518t.png,RetinexNet,17.751,0.5754,0.0532
+velol_synth_r13073518t.png,Transformer,15.586,0.6693,0.1725
+velol_synth_r13073518t.png,Hybrid (proposed),17.376,0.6672,0.2514
+velol_synth_r1372056ct.png,Zero-DCE++,14.301,0.4005,0.0139
+velol_synth_r1372056ct.png,RetinexNet,15.011,0.5394,0.0557
+velol_synth_r1372056ct.png,Transformer,18.043,0.6011,0.1730
+velol_synth_r1372056ct.png,Hybrid (proposed),17.300,0.5862,0.2500
+velol_synth_r13837601t.png,Zero-DCE++,10.072,0.5930,0.0136
+velol_synth_r13837601t.png,RetinexNet,17.593,0.7695,0.0543
+velol_synth_r13837601t.png,Transformer,13.217,0.7265,0.1730
+velol_synth_r13837601t.png,Hybrid (proposed),13.578,0.7334,0.2498
+velol_synth_r13907965t.png,Zero-DCE++,9.213,0.1261,0.0136
+velol_synth_r13907965t.png,RetinexNet,11.377,0.4809,0.0536
+velol_synth_r13907965t.png,Transformer,14.112,0.3512,0.1731
+velol_synth_r13907965t.png,Hybrid (proposed),13.390,0.2634,0.2507
+velol_synth_r13928401t.png,Zero-DCE++,8.361,0.4761,0.0136
+velol_synth_r13928401t.png,RetinexNet,17.737,0.5434,0.0539
+velol_synth_r13928401t.png,Transformer,14.001,0.7923,0.1736
+velol_synth_r13928401t.png,Hybrid (proposed),13.816,0.7635,0.2509
+velol_synth_r141665bdt.png,Zero-DCE++,13.578,0.4178,0.0136
+velol_synth_r141665bdt.png,RetinexNet,16.689,0.7298,0.0534
+velol_synth_r141665bdt.png,Transformer,14.490,0.7497,0.1721
+velol_synth_r141665bdt.png,Hybrid (proposed),15.774,0.7035,0.2491
+velol_synth_r141669e5t.png,Zero-DCE++,7.980,0.1215,0.0136
+velol_synth_r141669e5t.png,RetinexNet,18.146,0.4168,0.0535
+velol_synth_r141669e5t.png,Transformer,14.926,0.2680,0.1743
+velol_synth_r141669e5t.png,Hybrid (proposed),15.334,0.2115,0.2517
+velol_synth_r1419078bt.png,Zero-DCE++,8.557,0.1667,0.0136
+velol_synth_r1419078bt.png,RetinexNet,11.545,0.3366,0.0531
+velol_synth_r1419078bt.png,Transformer,14.014,0.3263,0.1729
+velol_synth_r1419078bt.png,Hybrid (proposed),13.255,0.2780,0.2515
+velol_synth_r142335f0t.png,Zero-DCE++,14.807,0.4064,0.0136
+velol_synth_r142335f0t.png,RetinexNet,19.907,0.6534,0.0540
+velol_synth_r142335f0t.png,Transformer,21.620,0.7317,0.1732
+velol_synth_r142335f0t.png,Hybrid (proposed),22.206,0.6957,0.2495
+velol_synth_r142787e2t.png,Zero-DCE++,7.444,0.5942,0.0136
+velol_synth_r142787e2t.png,RetinexNet,16.484,0.6976,0.0532
+velol_synth_r142787e2t.png,Transformer,13.577,0.8064,0.1735
+velol_synth_r142787e2t.png,Hybrid (proposed),7.440,0.5896,0.0153
+velol_synth_r14289905t.png,Zero-DCE++,8.177,0.3728,0.0135
+velol_synth_r14289905t.png,RetinexNet,14.682,0.4153,0.0535
+velol_synth_r14289905t.png,Transformer,15.083,0.5675,0.1725
+velol_synth_r14289905t.png,Hybrid (proposed),13.761,0.5059,0.2505
+velol_synth_r145215fft.png,Zero-DCE++,11.388,0.5095,0.0136
+velol_synth_r145215fft.png,RetinexNet,16.692,0.4377,0.0538
+velol_synth_r145215fft.png,Transformer,21.601,0.8112,0.1722
+velol_synth_r145215fft.png,Hybrid (proposed),20.503,0.7965,0.2495
+velol_synth_r145221d9t.png,Zero-DCE++,10.149,0.1994,0.0136
+velol_synth_r145221d9t.png,RetinexNet,16.344,0.4215,0.0535
+velol_synth_r145221d9t.png,Transformer,17.412,0.4783,0.1737
+velol_synth_r145221d9t.png,Hybrid (proposed),17.677,0.4168,0.2513
+velol_synth_r146771d7t.png,Zero-DCE++,12.935,0.4524,0.0136
+velol_synth_r146771d7t.png,RetinexNet,13.791,0.5672,0.0532
+velol_synth_r146771d7t.png,Transformer,15.297,0.6130,0.1723
+velol_synth_r146771d7t.png,Hybrid (proposed),15.679,0.5863,0.2499
+velol_synth_r150058a4t.png,Zero-DCE++,12.232,0.4039,0.0139
+velol_synth_r150058a4t.png,RetinexNet,14.412,0.6054,0.0564
+velol_synth_r150058a4t.png,Transformer,18.316,0.6801,0.1723
+velol_synth_r150058a4t.png,Hybrid (proposed),17.783,0.6217,0.2495
+velol_synth_r15885978t.png,Zero-DCE++,13.855,0.3430,0.0136
+velol_synth_r15885978t.png,RetinexNet,18.370,0.6105,0.0532
+velol_synth_r15885978t.png,Transformer,17.175,0.5567,0.1742
+velol_synth_r15885978t.png,Hybrid (proposed),18.640,0.4835,0.2516
+velol_synth_r15919202t.png,Zero-DCE++,7.168,0.4221,0.0135
+velol_synth_r15919202t.png,RetinexNet,15.088,0.6082,0.0537
+velol_synth_r15919202t.png,Transformer,12.638,0.7385,0.1725
+velol_synth_r15919202t.png,Hybrid (proposed),7.148,0.4189,0.0152
+velol_synth_r1602555bt.png,Zero-DCE++,17.501,0.6934,0.0136
+velol_synth_r1602555bt.png,RetinexNet,15.399,0.6788,0.0536
+velol_synth_r1602555bt.png,Transformer,17.336,0.6787,0.1731
+velol_synth_r1602555bt.png,Hybrid (proposed),16.838,0.7439,0.2493
+velol_synth_r163317d6t.png,Zero-DCE++,13.870,0.6744,0.0136
+velol_synth_r163317d6t.png,RetinexNet,18.234,0.7211,0.0528
+velol_synth_r163317d6t.png,Transformer,16.433,0.7617,0.1725
+velol_synth_r163317d6t.png,Hybrid (proposed),17.458,0.8095,0.2497
+velol_synth_r163967d4t.png,Zero-DCE++,10.013,0.3047,0.0136
+velol_synth_r163967d4t.png,RetinexNet,16.192,0.6951,0.0532
+velol_synth_r163967d4t.png,Transformer,12.702,0.6816,0.1724
+velol_synth_r163967d4t.png,Hybrid (proposed),13.588,0.5799,0.2490
+velol_synth_r16422663t.png,Zero-DCE++,17.603,0.8652,0.0136
+velol_synth_r16422663t.png,RetinexNet,20.426,0.8776,0.0533
+velol_synth_r16422663t.png,Transformer,22.024,0.7929,0.1738
+velol_synth_r16422663t.png,Hybrid (proposed),19.568,0.8669,0.2518
+velol_synth_r16509308t.png,Zero-DCE++,8.936,0.1707,0.0136
+velol_synth_r16509308t.png,RetinexNet,16.094,0.6110,0.0534
+velol_synth_r16509308t.png,Transformer,18.992,0.2966,0.1724
+velol_synth_r16509308t.png,Hybrid (proposed),17.914,0.2911,0.2493
+velol_synth_r165355c0t.png,Zero-DCE++,9.383,0.5834,0.0139
+velol_synth_r165355c0t.png,RetinexNet,20.903,0.7655,0.0554
+velol_synth_r165355c0t.png,Transformer,15.447,0.8100,0.1733
+velol_synth_r165355c0t.png,Hybrid (proposed),15.130,0.7932,0.2516
+velol_synth_r16654024t.png,Zero-DCE++,10.850,0.2804,0.0136
+velol_synth_r16654024t.png,RetinexNet,15.513,0.5065,0.0534
+velol_synth_r16654024t.png,Transformer,14.397,0.5093,0.1720
+velol_synth_r16654024t.png,Hybrid (proposed),15.687,0.4708,0.2491
+velol_synth_r1683028at.png,Zero-DCE++,10.236,0.3573,0.0136
+velol_synth_r1683028at.png,RetinexNet,11.669,0.5126,0.0532
+velol_synth_r1683028at.png,Transformer,14.949,0.5089,0.1732
+velol_synth_r1683028at.png,Hybrid (proposed),14.006,0.4758,0.2516
+velol_synth_r1694427et.png,Zero-DCE++,7.219,0.5698,0.0136
+velol_synth_r1694427et.png,RetinexNet,12.513,0.7950,0.0533
+velol_synth_r1694427et.png,Transformer,10.425,0.7272,0.1717
+velol_synth_r1694427et.png,Hybrid (proposed),10.325,0.7227,0.2493
+velol_synth_r170632f5t.png,Zero-DCE++,12.517,0.3133,0.0136
+velol_synth_r170632f5t.png,RetinexNet,14.579,0.3934,0.0534
+velol_synth_r170632f5t.png,Transformer,16.276,0.4818,0.1720
+velol_synth_r170632f5t.png,Hybrid (proposed),16.556,0.4801,0.2493
+velol_synth_r17217693t.png,Zero-DCE++,8.896,0.0953,0.0136
+velol_synth_r17217693t.png,RetinexNet,13.684,0.2992,0.0531
+velol_synth_r17217693t.png,Transformer,16.310,0.3142,0.1738
+velol_synth_r17217693t.png,Hybrid (proposed),15.576,0.2445,0.2520
+velol_synth_r181768b7t.png,Zero-DCE++,9.074,0.4603,0.0136
+velol_synth_r181768b7t.png,RetinexNet,17.582,0.5749,0.0536
+velol_synth_r181768b7t.png,Transformer,12.912,0.6794,0.1722
+velol_synth_r181768b7t.png,Hybrid (proposed),13.834,0.6911,0.2493
+velol_synth_r1824034et.png,Zero-DCE++,15.607,0.5103,0.0138
+velol_synth_r1824034et.png,RetinexNet,15.297,0.6747,0.0555
+velol_synth_r1824034et.png,Transformer,19.919,0.7588,0.1726
+velol_synth_r1824034et.png,Hybrid (proposed),19.206,0.7168,0.2494
+velol_synth_r185929e9t.png,Zero-DCE++,9.017,0.2256,0.0136
+velol_synth_r185929e9t.png,RetinexNet,11.012,0.3450,0.0534
+velol_synth_r185929e9t.png,Transformer,14.622,0.4554,0.1734
+velol_synth_r185929e9t.png,Hybrid (proposed),13.474,0.4296,0.2518
+velol_synth_r18791531t.png,Zero-DCE++,10.017,0.2226,0.0136
+velol_synth_r18791531t.png,RetinexNet,15.284,0.5073,0.0534
+velol_synth_r18791531t.png,Transformer,16.554,0.4712,0.1720
+velol_synth_r18791531t.png,Hybrid (proposed),15.897,0.3923,0.2491
+velol_synth_r18798194t.png,Zero-DCE++,9.694,0.2198,0.0136
+velol_synth_r18798194t.png,RetinexNet,10.313,0.4968,0.0531
+velol_synth_r18798194t.png,Transformer,13.364,0.4101,0.1725
+velol_synth_r18798194t.png,Hybrid (proposed),12.806,0.3821,0.2522
+velol_synth_r1889220ft.png,Zero-DCE++,8.575,0.4016,0.0136
+velol_synth_r1889220ft.png,RetinexNet,16.068,0.4485,0.0534
+velol_synth_r1889220ft.png,Transformer,17.008,0.5914,0.1719
+velol_synth_r1889220ft.png,Hybrid (proposed),16.359,0.6099,0.2498
+velol_synth_r18990432t.png,Zero-DCE++,9.162,0.3238,0.0136
+velol_synth_r18990432t.png,RetinexNet,17.138,0.6524,0.0534
+velol_synth_r18990432t.png,Transformer,17.792,0.4565,0.1727
+velol_synth_r18990432t.png,Hybrid (proposed),18.039,0.4585,0.2501
+velol_synth_r1904147dt.png,Zero-DCE++,15.409,0.5467,0.0136
+velol_synth_r1904147dt.png,RetinexNet,23.082,0.7667,0.0532
+velol_synth_r1904147dt.png,Transformer,18.601,0.7403,0.1737
+velol_synth_r1904147dt.png,Hybrid (proposed),19.843,0.7252,0.2515
+velol_synth_r191488c6t.png,Zero-DCE++,15.339,0.7919,0.0136
+velol_synth_r191488c6t.png,RetinexNet,25.205,0.8972,0.0536
+velol_synth_r191488c6t.png,Transformer,25.028,0.8299,0.1725
+velol_synth_r191488c6t.png,Hybrid (proposed),14.453,0.7837,0.0152
+velol_synth_r1915909et.png,Zero-DCE++,12.015,0.3394,0.0136
+velol_synth_r1915909et.png,RetinexNet,13.183,0.4895,0.0535
+velol_synth_r1915909et.png,Transformer,19.181,0.6079,0.1721
+velol_synth_r1915909et.png,Hybrid (proposed),16.657,0.5501,0.2485
+velol_synth_r19183258t.png,Zero-DCE++,9.623,0.4860,0.0136
+velol_synth_r19183258t.png,RetinexNet,17.692,0.7228,0.0535
+velol_synth_r19183258t.png,Transformer,12.374,0.5924,0.1724
+velol_synth_r19183258t.png,Hybrid (proposed),17.783,0.4067,0.0027
+velol_synth_r197770adt.png,Zero-DCE++,11.107,0.2079,0.0136
+velol_synth_r197770adt.png,RetinexNet,14.760,0.3324,0.0533
+velol_synth_r197770adt.png,Transformer,16.322,0.3665,0.1731
+velol_synth_r197770adt.png,Hybrid (proposed),16.258,0.3269,0.2514
